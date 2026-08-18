@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_will_wallace",
+  "name": "Will Wallace",
+  "external_ids": {
+    "wikidata": "Q8003174",
+    "imdb": "nm0003930"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1900
+}

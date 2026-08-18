@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_warner_saunders",
+  "name": "Warner Saunders",
+  "external_ids": {
+    "wikidata": "Q7969755",
+    "imdb": "nm1099919"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935,
+  "death_year": 2018
+}

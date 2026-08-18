@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_whitney_houston",
+  "name": "Whitney Houston",
+  "external_ids": {
+    "wikidata": "Q34389",
+    "imdb": "nm0001365"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963,
+  "death_year": 2012
+}

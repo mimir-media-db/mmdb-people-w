@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wayne_knight",
+  "name": "Wayne Knight",
+  "external_ids": {
+    "wikidata": "Q311976",
+    "imdb": "nm0001431"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}
