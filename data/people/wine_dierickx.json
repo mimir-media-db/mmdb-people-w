@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wine_dierickx",
+  "name": "Wine Dierickx",
+  "external_ids": {
+    "wikidata": "Q2334416",
+    "imdb": "nm1397708"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

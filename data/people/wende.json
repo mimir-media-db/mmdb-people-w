@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wende",
+  "name": "Wende",
+  "external_ids": {
+    "wikidata": "Q275838",
+    "imdb": "nm1001932"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

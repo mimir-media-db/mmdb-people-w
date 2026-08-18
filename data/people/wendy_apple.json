@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_wendy_apple",
+  "name": "Wendy Apple",
+  "external_ids": {
+    "wikidata": "Q113462162",
+    "imdb": "nm1743280"
+  },
+  "last_updated": "2026-08-18"
+}
