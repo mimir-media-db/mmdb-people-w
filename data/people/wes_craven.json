@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_wes_craven",
+  "name": "Wes Craven",
+  "external_ids": {
+    "wikidata": "Q223992",
+    "imdb": "nm0000127"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939,
+  "death_year": 2015
+}

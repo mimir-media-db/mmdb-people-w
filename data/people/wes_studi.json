@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wes_studi",
+  "name": "Wes Studi",
+  "external_ids": {
+    "wikidata": "Q350819",
+    "imdb": "nm0836071"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

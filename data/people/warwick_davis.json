@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_warwick_davis",
+  "name": "Warwick Davis",
+  "external_ids": {
+    "wikidata": "Q108270",
+    "imdb": "nm0001116"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

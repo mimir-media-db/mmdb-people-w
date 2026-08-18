@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wes_bentley",
+  "name": "Wes Bentley",
+  "external_ids": {
+    "wikidata": "Q368037",
+    "imdb": "nm0004747"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

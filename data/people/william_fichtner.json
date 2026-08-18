@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_william_fichtner",
+  "name": "William Fichtner",
+  "external_ids": {
+    "wikidata": "Q220335",
+    "imdb": "nm0001209"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}
