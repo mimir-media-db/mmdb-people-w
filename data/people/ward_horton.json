@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ward_horton",
+  "name": "Ward Horton",
+  "external_ids": {
+    "wikidata": "Q18638564",
+    "imdb": "nm1782235"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_willie_nelson",
+  "name": "Willie Nelson",
+  "external_ids": {
+    "wikidata": "Q206112",
+    "imdb": "nm0005268"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1933
+}
