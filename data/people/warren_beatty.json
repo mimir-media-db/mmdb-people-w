@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_warren_beatty",
+  "name": "Warren Beatty",
+  "external_ids": {
+    "wikidata": "Q95030",
+    "imdb": "nm0000886"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937
+}

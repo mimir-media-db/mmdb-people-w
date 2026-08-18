@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_winston_churchill",
+  "name": "Winston Churchill",
+  "external_ids": {
+    "wikidata": "Q8016",
+    "imdb": "nm0161476"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1874,
+  "death_year": 1965
+}

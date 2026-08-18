@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_wilford_brimley",
+  "name": "Wilford Brimley",
+  "external_ids": {
+    "wikidata": "Q712180",
+    "imdb": "nm0000979"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934,
+  "death_year": 2020
+}

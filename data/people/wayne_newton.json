@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wayne_newton",
+  "name": "Wayne Newton",
+  "external_ids": {
+    "wikidata": "Q552806",
+    "imdb": "nm0628611"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}
