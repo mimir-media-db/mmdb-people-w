@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_walter_hill",
+  "name": "Walter Hill",
+  "external_ids": {
+    "wikidata": "Q350422",
+    "imdb": "nm0001353"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wolf_haas",
+  "name": "Wolf Haas",
+  "external_ids": {
+    "wikidata": "Q6519",
+    "imdb": "nm0352028"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

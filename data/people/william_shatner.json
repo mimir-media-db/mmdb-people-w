@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_william_shatner",
+  "name": "William Shatner",
+  "external_ids": {
+    "wikidata": "Q16297",
+    "imdb": "nm0000638"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1931
+}

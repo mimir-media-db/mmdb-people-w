@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_wolfgang_petersen",
+  "name": "Wolfgang Petersen",
+  "external_ids": {
+    "wikidata": "Q65321",
+    "imdb": "nm0000583"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941,
+  "death_year": 2022
+}

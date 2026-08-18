@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wim_wenders",
+  "name": "Wim Wenders",
+  "external_ids": {
+    "wikidata": "Q55411",
+    "imdb": "nm0000694"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

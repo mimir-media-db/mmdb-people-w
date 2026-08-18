@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_will_ferrell",
+  "name": "Will Ferrell",
+  "external_ids": {
+    "wikidata": "Q218503",
+    "imdb": "nm0002071"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

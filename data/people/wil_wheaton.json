@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wil_wheaton",
+  "name": "Wil Wheaton",
+  "external_ids": {
+    "wikidata": "Q264699",
+    "imdb": "nm0000696"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

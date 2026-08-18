@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_winona_ryder",
+  "name": "Winona Ryder",
+  "external_ids": {
+    "wikidata": "Q101797",
+    "imdb": "nm0000213"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

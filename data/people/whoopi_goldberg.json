@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_whoopi_goldberg",
+  "name": "Whoopi Goldberg",
+  "external_ids": {
+    "wikidata": "Q49001",
+    "imdb": "nm0000155"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}
