@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "p_weird_al_yankovic",
+    "name": "\"Weird Al\" Yankovic",
+    "birth_year": 1959,
+    "path": "data/people/weird_al_yankovic.json"
+  }
+]
