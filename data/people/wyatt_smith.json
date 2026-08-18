@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wyatt_smith",
+  "name": "Wyatt Smith",
+  "external_ids": {
+    "wikidata": "Q23794243",
+    "imdb": "nm0810374"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}
