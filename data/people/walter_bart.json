@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_walter_bart",
+  "name": "Walter Bart",
+  "external_ids": {
+    "wikidata": "Q2766116",
+    "imdb": "nm1591195"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

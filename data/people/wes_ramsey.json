@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wes_ramsey",
+  "name": "Wes Ramsey",
+  "external_ids": {
+    "wikidata": "Q530000",
+    "imdb": "nm0709095"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}
