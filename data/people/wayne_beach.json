@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wayne_beach",
+  "name": "Wayne Beach",
+  "external_ids": {
+    "wikidata": "Q3566814",
+    "imdb": "nm0063511"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}
