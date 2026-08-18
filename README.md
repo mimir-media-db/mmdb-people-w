@@ -1,2 +1,3 @@
-# mmdb-people-w
-MMDB People — W
+# MMDB People — W
+
+People whose slug starts with 'w'.
