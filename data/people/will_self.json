@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_will_self",
+  "name": "Will Self",
+  "external_ids": {
+    "wikidata": "Q261054",
+    "imdb": "nm1107102"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_willi_baer",
+  "name": "Willi Baer",
+  "external_ids": {
+    "wikidata": "Q2576983",
+    "imdb": "nm0126653"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_william_smith",
+  "name": "William Smith",
+  "external_ids": {
+    "wikidata": "Q975046",
+    "imdb": "nm0810342"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1933,
+  "death_year": 2021
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_wolf_todorov",
+  "name": "Wolf Todorov",
+  "external_ids": {
+    "wikidata": "Q12275805",
+    "imdb": "nm0436430"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937,
+  "death_year": 2020
+}
