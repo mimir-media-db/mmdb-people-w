@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_weird_al_yankovic",
+  "name": "\"Weird Al\" Yankovic",
+  "external_ids": {
+    "wikidata": "Q8349",
+    "imdb": "nm0946148"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1959,
+  "death_year": null
+}
