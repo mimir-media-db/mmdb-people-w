@@ -65,6 +65,12 @@
     "path": "data/people/p_w_thomas_molloy.json"
   },
   {
+    "id": "p_waa_wei",
+    "name": "Waa Wei",
+    "birth_year": 1982,
+    "path": "data/people/p_waa_wei.json"
+  },
+  {
     "id": "p_waad_alkateab",
     "name": "Waad al-Kateab",
     "birth_year": 1990,
@@ -81,6 +87,11 @@
     "name": "Wabi Daněk",
     "birth_year": 1947,
     "path": "data/people/p_wabi_danek.json"
+  },
+  {
+    "id": "p_wabinle_nabie",
+    "name": "Wabinlé Nabié",
+    "path": "data/people/p_wabinle_nabie.json"
   },
   {
     "id": "p_wachirawit_ruangwiwat",
@@ -194,6 +205,12 @@
     "name": "Wael Zidan",
     "birth_year": 1970,
     "path": "data/people/p_wael_zidan.json"
+  },
+  {
+    "id": "p_wafariena_roslan",
+    "name": "Wafariena Roslan",
+    "birth_year": 1995,
+    "path": "data/people/p_wafariena_roslan.json"
   },
   {
     "id": "p_wafda_saifan",
@@ -516,6 +533,11 @@
     "path": "data/people/p_wale_macaulay.json"
   },
   {
+    "id": "p_wale_muraina",
+    "name": "Wale Muraina",
+    "path": "data/people/p_wale_muraina.json"
+  },
+  {
     "id": "p_wale_ojo",
     "name": "Wale Ojo",
     "birth_year": 1968,
@@ -718,6 +740,12 @@
     "path": "data/people/p_walt_disney.json"
   },
   {
+    "id": "p_walt_dohrn",
+    "name": "Walt Dohrn",
+    "birth_year": 1970,
+    "path": "data/people/p_walt_dohrn.json"
+  },
+  {
     "id": "p_walt_frazier",
     "name": "Walt Frazier",
     "birth_year": 1945,
@@ -745,6 +773,11 @@
     "name": "Walter Adrian",
     "birth_year": 1941,
     "path": "data/people/p_walter_adrian.json"
+  },
+  {
+    "id": "p_walter_anaruk",
+    "name": "Walter Anaruk",
+    "path": "data/people/p_walter_anaruk.json"
   },
   {
     "id": "p_walter_baele",
@@ -1451,6 +1484,12 @@
     "path": "data/people/p_wang_chuantsung.json"
   },
   {
+    "id": "p_wang_chunghuang",
+    "name": "Wang Chung-huang",
+    "birth_year": 1959,
+    "path": "data/people/p_wang_chunghuang.json"
+  },
+  {
     "id": "p_wang_deming",
     "name": "Wang Deming",
     "birth_year": 1955,
@@ -1496,6 +1535,12 @@
     "name": "Wang Hongwei",
     "birth_year": 1969,
     "path": "data/people/p_wang_hongwei.json"
+  },
+  {
+    "id": "p_wang_hsinyi",
+    "name": "Wang Hsin-yi",
+    "birth_year": 1978,
+    "path": "data/people/p_wang_hsinyi.json"
   },
   {
     "id": "p_wang_hui",
@@ -1936,6 +1981,12 @@
     "id": "p_warda_rammach",
     "name": "Warda Rammach",
     "path": "data/people/p_warda_rammach.json"
+  },
+  {
+    "id": "p_wari_galvez_rivas",
+    "name": "Wari Gálvez Rivas",
+    "birth_year": 1986,
+    "path": "data/people/p_wari_galvez_rivas.json"
   },
   {
     "id": "p_wari_om",
@@ -2664,6 +2715,12 @@
     "path": "data/people/p_wei_shiyu.json"
   },
   {
+    "id": "p_wei_shujun",
+    "name": "Wei Shujun",
+    "birth_year": 1991,
+    "path": "data/people/p_wei_shujun.json"
+  },
+  {
     "id": "p_wei_tesheng",
     "name": "Wei Te-sheng",
     "birth_year": 1969,
@@ -2842,6 +2899,12 @@
     "path": "data/people/p_wencke_barfoed.json"
   },
   {
+    "id": "p_wencke_myhre",
+    "name": "Wencke Myhre",
+    "birth_year": 1947,
+    "path": "data/people/p_wencke_myhre.json"
+  },
+  {
     "id": "p_wende",
     "name": "Wende",
     "birth_year": 1978,
@@ -2957,6 +3020,11 @@
     "name": "Wendy Crewson",
     "birth_year": 1956,
     "path": "data/people/p_wendy_crewson.json"
+  },
+  {
+    "id": "p_wendy_de_wit",
+    "name": "Wendy de Wit",
+    "path": "data/people/p_wendy_de_wit.json"
   },
   {
     "id": "p_wendy_delorme",
@@ -3458,6 +3526,12 @@
     "path": "data/people/p_wes_miller.json"
   },
   {
+    "id": "p_wes_mutsaars",
+    "name": "Wes Mutsaars",
+    "birth_year": 1979,
+    "path": "data/people/p_wes_mutsaars.json"
+  },
+  {
     "id": "p_wes_orshoski",
     "name": "Wes Orshoski",
     "path": "data/people/p_wes_orshoski.json"
@@ -3497,6 +3571,12 @@
     "name": "Wesley Fofana",
     "birth_year": 1988,
     "path": "data/people/p_wesley_fofana.json"
+  },
+  {
+    "id": "p_wesley_howard",
+    "name": "Wesley Howard",
+    "birth_year": 1979,
+    "path": "data/people/p_wesley_howard.json"
   },
   {
     "id": "p_wesley_john",
@@ -3806,10 +3886,21 @@
     "path": "data/people/p_widemir_normil.json"
   },
   {
+    "id": "p_widi_dwinanda",
+    "name": "Widi Dwinanda",
+    "birth_year": 1988,
+    "path": "data/people/p_widi_dwinanda.json"
+  },
+  {
     "id": "p_widi_mulia",
     "name": "Widi Mulia",
     "birth_year": 1979,
     "path": "data/people/p_widi_mulia.json"
+  },
+  {
+    "id": "p_widika_sidmore",
+    "name": "Widika Sidmore",
+    "path": "data/people/p_widika_sidmore.json"
   },
   {
     "id": "p_widyawati",
@@ -3935,6 +4026,12 @@
     "path": "data/people/p_wiktor_zborowski.json"
   },
   {
+    "id": "p_wiktoria_filus",
+    "name": "Wiktoria Filus",
+    "birth_year": 1994,
+    "path": "data/people/p_wiktoria_filus.json"
+  },
+  {
     "id": "p_wiktoria_gasiewska",
     "name": "Wiktoria Gąsiewska",
     "birth_year": 1999,
@@ -3950,6 +4047,12 @@
     "id": "p_wiktoria_pawowska",
     "name": "Wiktoria Pawłowska",
     "path": "data/people/p_wiktoria_pawowska.json"
+  },
+  {
+    "id": "p_wikus_du_toit",
+    "name": "Wikus du Toit",
+    "birth_year": 1972,
+    "path": "data/people/p_wikus_du_toit.json"
   },
   {
     "id": "p_wil_horneff",
@@ -4056,6 +4159,11 @@
     "path": "data/people/p_wilfred_lau.json"
   },
   {
+    "id": "p_wilfredo_medina",
+    "name": "Wilfredo Medina",
+    "path": "data/people/p_wilfredo_medina.json"
+  },
+  {
     "id": "p_wilfrid_brambell",
     "name": "Wilfrid Brambell",
     "birth_year": 1912,
@@ -4125,6 +4233,12 @@
     "name": "Wilhelm Beck",
     "birth_year": 1947,
     "path": "data/people/p_wilhelm_beck.json"
+  },
+  {
+    "id": "p_wilhelm_enckell",
+    "name": "Wilhelm Enckell",
+    "birth_year": 1989,
+    "path": "data/people/p_wilhelm_enckell.json"
   },
   {
     "id": "p_wilhelm_fredriksson_nyren",
@@ -4201,6 +4315,11 @@
     "path": "data/people/p_will_arnett.json"
   },
   {
+    "id": "p_will_ashurst",
+    "name": "Will Ashurst",
+    "path": "data/people/p_will_ashurst.json"
+  },
+  {
     "id": "p_will_attenborough",
     "name": "Will Attenborough",
     "birth_year": 1991,
@@ -4273,6 +4392,11 @@
     "id": "p_will_clarke",
     "name": "Will Clarke",
     "path": "data/people/p_will_clarke.json"
+  },
+  {
+    "id": "p_will_dalton",
+    "name": "Will Dalton",
+    "path": "data/people/p_will_dalton.json"
   },
   {
     "id": "p_will_denton",
@@ -4395,6 +4519,12 @@
     "name": "Will Kemp",
     "birth_year": 1977,
     "path": "data/people/p_will_kemp.json"
+  },
+  {
+    "id": "p_will_knaak",
+    "name": "Will Knaak",
+    "birth_year": 1984,
+    "path": "data/people/p_will_knaak.json"
   },
   {
     "id": "p_will_koopman",
@@ -4527,6 +4657,12 @@
     "name": "Will Rokos",
     "birth_year": 1964,
     "path": "data/people/p_will_rokos.json"
+  },
+  {
+    "id": "p_will_ropp",
+    "name": "Will Ropp",
+    "birth_year": 1994,
+    "path": "data/people/p_will_ropp.json"
   },
   {
     "id": "p_will_rothhaar",
@@ -4665,6 +4801,11 @@
     "path": "data/people/p_will_wallace.json"
   },
   {
+    "id": "p_will_wernick",
+    "name": "Will Wernick",
+    "path": "data/people/p_will_wernick.json"
+  },
+  {
     "id": "p_will_wissink",
     "name": "Will Wissink",
     "birth_year": 1964,
@@ -4717,6 +4858,12 @@
     "name": "Willard E. Pugh",
     "birth_year": 1959,
     "path": "data/people/p_willard_e_pugh.json"
+  },
+  {
+    "id": "p_willehard_korander",
+    "name": "Willehard Korander",
+    "birth_year": 1980,
+    "path": "data/people/p_willehard_korander.json"
   },
   {
     "id": "p_willeke_alberti",
@@ -4944,6 +5091,11 @@
     "path": "data/people/p_william_ball.json"
   },
   {
+    "id": "p_william_bang",
+    "name": "William Bang",
+    "path": "data/people/p_william_bang.json"
+  },
+  {
     "id": "p_william_barton",
     "name": "William Barton",
     "path": "data/people/p_william_barton.json"
@@ -5084,6 +5236,12 @@
     "name": "William Carnimolla",
     "birth_year": 1980,
     "path": "data/people/p_william_carnimolla.json"
+  },
+  {
+    "id": "p_william_catlett",
+    "name": "William Catlett",
+    "birth_year": 1982,
+    "path": "data/people/p_william_catlett.json"
   },
   {
     "id": "p_william_challee",
@@ -6057,6 +6215,12 @@
     "path": "data/people/p_william_utay.json"
   },
   {
+    "id": "p_william_valerian",
+    "name": "William Valerián",
+    "birth_year": 1992,
+    "path": "data/people/p_william_valerian.json"
+  },
+  {
     "id": "p_william_vanderpuye",
     "name": "William Vanderpuye",
     "birth_year": 1963,
@@ -6439,6 +6603,11 @@
     "path": "data/people/p_wilson_guerrero.json"
   },
   {
+    "id": "p_wilson_hsu",
+    "name": "Wilson Hsu",
+    "path": "data/people/p_wilson_hsu.json"
+  },
+  {
     "id": "p_wilson_jermaine_heredia",
     "name": "Wilson Jermaine Heredia",
     "birth_year": 1971,
@@ -6506,6 +6675,12 @@
     "name": "Wim Opbrouck",
     "birth_year": 1969,
     "path": "data/people/p_wim_opbrouck.json"
+  },
+  {
+    "id": "p_wim_peeters",
+    "name": "Wim Peeters",
+    "birth_year": 1979,
+    "path": "data/people/p_wim_peeters.json"
   },
   {
     "id": "p_wim_rijken",
@@ -6599,6 +6774,11 @@
     "name": "Win Morisaki",
     "birth_year": 1990,
     "path": "data/people/p_win_morisaki.json"
+  },
+  {
+    "id": "p_wina_marrino",
+    "name": "Wina Marrino",
+    "path": "data/people/p_wina_marrino.json"
   },
   {
     "id": "p_winai_kraibutr",
@@ -6716,6 +6896,17 @@
     "name": "Winona Ryder",
     "birth_year": 1971,
     "path": "data/people/p_winona_ryder.json"
+  },
+  {
+    "id": "p_winslow_fegley",
+    "name": "Winslow Fegley",
+    "birth_year": 2009,
+    "path": "data/people/p_winslow_fegley.json"
+  },
+  {
+    "id": "p_winsome_brown",
+    "name": "Winsome Brown",
+    "path": "data/people/p_winsome_brown.json"
   },
   {
     "id": "p_winston_chao",
@@ -7686,6 +7877,12 @@
     "path": "data/people/p_wolfgang_niedecken.json"
   },
   {
+    "id": "p_wolfgang_novogratz",
+    "name": "Wolfgang Novogratz",
+    "birth_year": 1997,
+    "path": "data/people/p_wolfgang_novogratz.json"
+  },
+  {
     "id": "p_wolfgang_packhauser",
     "name": "Wolfgang Packhäuser",
     "birth_year": 1950,
@@ -7752,6 +7949,12 @@
     "path": "data/people/p_wolfgang_rauh.json"
   },
   {
+    "id": "p_wolfgang_reeb",
+    "name": "Wolfgang Reeb",
+    "birth_year": 1953,
+    "path": "data/people/p_wolfgang_reeb.json"
+  },
+  {
     "id": "p_wolfgang_reinke",
     "name": "Wolfgang Reinke",
     "path": "data/people/p_wolfgang_reinke.json"
@@ -7773,6 +7976,12 @@
     "name": "Wolfgang Ritzberger",
     "birth_year": 1961,
     "path": "data/people/p_wolfgang_ritzberger.json"
+  },
+  {
+    "id": "p_wolfgang_rupert_muhr",
+    "name": "Wolfgang Rupert Muhr",
+    "birth_year": 1976,
+    "path": "data/people/p_wolfgang_rupert_muhr.json"
   },
   {
     "id": "p_wolfgang_ruter",
@@ -8081,6 +8290,12 @@
     "path": "data/people/p_woo_kihong.json"
   },
   {
+    "id": "p_woo_mihwa",
+    "name": "Woo Mi-hwa",
+    "birth_year": 1974,
+    "path": "data/people/p_woo_mihwa.json"
+  },
+  {
     "id": "p_woo_ming_jin",
     "name": "Woo Ming Jin",
     "birth_year": 1976,
@@ -8287,6 +8502,12 @@
     "name": "Wu Hsing-kuo",
     "birth_year": 1953,
     "path": "data/people/p_wu_hsingkuo.json"
+  },
+  {
+    "id": "p_wu_jianhe",
+    "name": "Wu Jian-He",
+    "birth_year": 1993,
+    "path": "data/people/p_wu_jianhe.json"
   },
   {
     "id": "p_wu_jing",
