@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wayne_rooney",
+  "name": "Wayne Rooney",
+  "external_ids": {
+    "wikidata": "Q266613",
+    "imdb": "nm1640775"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
