@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wendy_morgan",
+  "name": "Wendy Morgan",
+  "external_ids": {
+    "wikidata": "Q7982733",
+    "imdb": "nm0605088"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957
+}

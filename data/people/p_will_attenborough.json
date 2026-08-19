@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_will_attenborough",
+  "name": "Will Attenborough",
+  "external_ids": {
+    "wikidata": "Q22910218",
+    "imdb": "nm2139979"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
