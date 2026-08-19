@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_wilton_graff",
+  "name": "Wilton Graff",
+  "external_ids": {
+    "wikidata": "Q16006572",
+    "imdb": "nm0333807"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1903,
+  "death_year": 1969
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_whitney_dow",
+  "name": "Whitney Dow",
+  "external_ids": {
+    "wikidata": "Q19282012",
+    "imdb": "nm1103119"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}
