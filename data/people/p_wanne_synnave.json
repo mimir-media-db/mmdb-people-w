@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wanne_synnave",
+  "name": "Wanne Synnave",
+  "external_ids": {
+    "wikidata": "Q29020994",
+    "imdb": "nm6256562"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}
