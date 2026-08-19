@@ -717,6 +717,11 @@
     "path": "data/people/p_walker_howard.json"
   },
   {
+    "id": "p_walker_russell",
+    "name": "Walker Russell",
+    "path": "data/people/p_walker_russell.json"
+  },
+  {
     "id": "p_walker_scobell",
     "name": "Walker Scobell",
     "birth_year": 2009,
@@ -1531,6 +1536,11 @@
     "path": "data/people/p_wanda_hamidah.json"
   },
   {
+    "id": "p_wanda_kapralova",
+    "name": "Wanda Kaprálová",
+    "path": "data/people/p_wanda_kapralova.json"
+  },
+  {
     "id": "p_wanda_opalinska",
     "name": "Wanda Opalinska",
     "path": "data/people/p_wanda_opalinska.json"
@@ -1979,6 +1989,12 @@
     "name": "Wang Yanlin",
     "birth_year": 1989,
     "path": "data/people/p_wang_yanlin.json"
+  },
+  {
+    "id": "p_wang_yantong",
+    "name": "Wang Yantong",
+    "birth_year": 1999,
+    "path": "data/people/p_wang_yantong.json"
   },
   {
     "id": "p_wang_yi",
@@ -4463,6 +4479,12 @@
     "path": "data/people/p_wieteke_van_dort.json"
   },
   {
+    "id": "p_wigald_boning",
+    "name": "Wigald Boning",
+    "birth_year": 1967,
+    "path": "data/people/p_wigald_boning.json"
+  },
+  {
     "id": "p_wijeyadasa_rajapakshe",
     "name": "Wijeyadasa Rajapakshe",
     "birth_year": 1959,
@@ -4531,6 +4553,12 @@
     "name": "Wikwasa Newashish Petiquay",
     "birth_year": 1997,
     "path": "data/people/p_wikwasa_newashish_petiquay.json"
+  },
+  {
+    "id": "p_wil_aime",
+    "name": "Wil Aime",
+    "birth_year": 1995,
+    "path": "data/people/p_wil_aime.json"
   },
   {
     "id": "p_wil_horneff",
@@ -5023,6 +5051,11 @@
     "name": "Will Hutchins",
     "birth_year": 1930,
     "path": "data/people/p_will_hutchins.json"
+  },
+  {
+    "id": "p_will_hyde",
+    "name": "Will Hyde",
+    "path": "data/people/p_will_hyde.json"
   },
   {
     "id": "p_will_janowitz",
@@ -6100,6 +6133,12 @@
     "path": "data/people/p_william_friedkin.json"
   },
   {
+    "id": "p_william_gallas",
+    "name": "William Gallas",
+    "birth_year": 1977,
+    "path": "data/people/p_william_gallas.json"
+  },
+  {
     "id": "p_william_gao",
     "name": "William Gao",
     "birth_year": 2003,
@@ -6554,6 +6593,12 @@
     "path": "data/people/p_william_miller.json"
   },
   {
+    "id": "p_william_mlckovsky",
+    "name": "William Mlčkovský",
+    "birth_year": 2023,
+    "path": "data/people/p_william_mlckovsky.json"
+  },
+  {
     "id": "p_william_monahan",
     "name": "William Monahan",
     "birth_year": 1960,
@@ -6597,6 +6642,11 @@
     "id": "p_william_nordberg",
     "name": "William Nordberg",
     "path": "data/people/p_william_nordberg.json"
+  },
+  {
+    "id": "p_william_oconnor",
+    "name": "William O'Connor",
+    "path": "data/people/p_william_oconnor.json"
   },
   {
     "id": "p_william_oldroyd",
@@ -7599,6 +7649,11 @@
     "name": "Winfried Oelsner",
     "birth_year": 1971,
     "path": "data/people/p_winfried_oelsner.json"
+  },
+  {
+    "id": "p_wing_poon",
+    "name": "Wing Poon",
+    "path": "data/people/p_wing_poon.json"
   },
   {
     "id": "p_wing_shya",
@@ -9002,6 +9057,12 @@
     "id": "p_won_lee",
     "name": "Won Lee",
     "path": "data/people/p_won_lee.json"
+  },
+  {
+    "id": "p_won_mikyung",
+    "name": "Won Mi-kyung",
+    "birth_year": 1960,
+    "path": "data/people/p_won_mikyung.json"
   },
   {
     "id": "p_won_sinyeon",
