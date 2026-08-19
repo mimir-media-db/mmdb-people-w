@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_winnie",
+  "name": "Winnie",
+  "external_ids": {
+    "wikidata": "Q138773286",
+    "imdb": "nm2526422"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
