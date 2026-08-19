@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wallis_day",
+  "name": "Wallis Day",
+  "external_ids": {
+    "wikidata": "Q16647672",
+    "imdb": "nm5363417"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

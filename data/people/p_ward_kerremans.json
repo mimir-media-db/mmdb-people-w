@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ward_kerremans",
+  "name": "Ward Kerremans",
+  "external_ids": {
+    "wikidata": "Q2649019",
+    "imdb": "nm3146594"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}
