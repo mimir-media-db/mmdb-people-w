@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wolfgang_rest",
+  "name": "Wolfgang Rest",
+  "external_ids": {
+    "wikidata": "Q2590963",
+    "imdb": "nm0720400"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957
+}
