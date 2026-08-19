@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wang_toon",
+  "name": "Wang Toon",
+  "external_ids": {
+    "wikidata": "Q9066490",
+    "imdb": "nm0911042"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1942
+}

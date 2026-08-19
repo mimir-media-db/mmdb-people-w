@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wellesley_wild",
+  "name": "Wellesley Wild",
+  "external_ids": {
+    "wikidata": "Q6241864",
+    "imdb": "nm1273397"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}
