@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_walt_wang",
+  "name": "Walt Wang",
+  "external_ids": {
+    "wikidata": "Q60992809",
+    "imdb": "nm1021001"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
