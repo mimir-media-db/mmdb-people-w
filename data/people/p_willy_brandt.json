@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_willy_brandt",
+  "name": "Willy Brandt",
+  "external_ids": {
+    "wikidata": "Q2514",
+    "imdb": "nm0105018"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1913,
+  "death_year": 1992
+}
