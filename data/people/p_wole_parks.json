@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wole_parks",
+  "name": "Wolé Parks",
+  "external_ids": {
+    "wikidata": "Q8030611",
+    "imdb": "nm1210494"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

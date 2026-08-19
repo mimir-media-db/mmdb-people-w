@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_windy_borman",
+  "name": "Windy Borman",
+  "external_ids": {
+    "wikidata": "Q117859428",
+    "imdb": "nm3859678"
+  },
+  "last_updated": "2026-08-19"
+}
