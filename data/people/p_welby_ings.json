@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_welby_ings",
+  "name": "Welby Ings",
+  "external_ids": {
+    "wikidata": "Q112358071",
+    "imdb": "nm1779844"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}
