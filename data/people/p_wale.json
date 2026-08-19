@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wale",
+  "name": "Wale",
+  "external_ids": {
+    "wikidata": "Q458519",
+    "imdb": "nm0907353"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
