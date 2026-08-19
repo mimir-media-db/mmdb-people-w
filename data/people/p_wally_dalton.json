@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_wally_dalton",
+  "name": "Wally Dalton",
+  "external_ids": {
+    "wikidata": "Q108702545",
+    "imdb": "nm0198369"
+  },
+  "last_updated": "2026-08-19"
+}
