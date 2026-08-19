@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_werner_boote",
+  "name": "Werner Boote",
+  "external_ids": {
+    "wikidata": "Q2560899",
+    "imdb": "nm1923741"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
