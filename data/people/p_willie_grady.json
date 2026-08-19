@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_willie_grady",
+  "name": "Willie Grady",
+  "external_ids": {
+    "wikidata": "Q26899440",
+    "imdb": "nm3154713"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
