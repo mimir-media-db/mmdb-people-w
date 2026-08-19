@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wes_chatham",
+  "name": "Wes Chatham",
+  "external_ids": {
+    "wikidata": "Q15948894",
+    "imdb": "nm1434871"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

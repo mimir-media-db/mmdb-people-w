@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_walter_day",
+  "name": "Walter Day",
+  "external_ids": {
+    "wikidata": "Q277746",
+    "imdb": "nm2436615"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}
