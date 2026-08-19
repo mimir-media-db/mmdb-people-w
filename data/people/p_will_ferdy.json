@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_will_ferdy",
+  "name": "Will Ferdy",
+  "external_ids": {
+    "wikidata": "Q2183817",
+    "imdb": "nm0272267"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1927,
+  "death_year": 2022
+}

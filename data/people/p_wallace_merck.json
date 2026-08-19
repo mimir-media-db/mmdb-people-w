@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wallace_merck",
+  "name": "Wallace Merck",
+  "external_ids": {
+    "wikidata": "Q98227951",
+    "imdb": "nm0580467"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

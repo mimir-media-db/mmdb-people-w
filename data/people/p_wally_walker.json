@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_wally_walker",
+  "name": "Wally Walker",
+  "external_ids": {
+    "wikidata": "Q2341885"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}

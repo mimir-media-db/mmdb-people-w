@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wolf_blitzer",
+  "name": "Wolf Blitzer",
+  "external_ids": {
+    "wikidata": "Q49079",
+    "imdb": "nm0088566"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}
