@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_willie_robertson",
+  "name": "Willie Robertson",
+  "external_ids": {
+    "wikidata": "Q14755556",
+    "imdb": "nm3542587"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}
