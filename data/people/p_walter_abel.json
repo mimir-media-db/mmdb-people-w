@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_walter_abel",
+  "name": "Walter Abel",
+  "external_ids": {
+    "wikidata": "Q2004024",
+    "imdb": "nm0008496"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1898,
+  "death_year": 1987
+}
