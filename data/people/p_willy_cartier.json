@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_willy_cartier",
+  "name": "Willy Cartier",
+  "external_ids": {
+    "wikidata": "Q16683362",
+    "imdb": "nm3146303"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
