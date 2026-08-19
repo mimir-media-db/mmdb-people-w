@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_wolfram_koch",
+  "name": "Wolfram Koch",
+  "external_ids": {
+    "wikidata": "Q15433473",
+    "imdb": "nm0462439"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}

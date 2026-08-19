@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_willem_de_kooning",
+  "name": "Willem de Kooning",
+  "external_ids": {
+    "wikidata": "Q132305",
+    "imdb": "nm0209137"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1904,
+  "death_year": 1997
+}

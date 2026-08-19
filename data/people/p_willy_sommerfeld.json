@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_willy_sommerfeld",
+  "name": "Willy Sommerfeld",
+  "external_ids": {
+    "wikidata": "Q1382151",
+    "imdb": "nm0814022"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1904,
+  "death_year": 2007
+}
