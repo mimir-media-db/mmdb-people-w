@@ -6,6 +6,12 @@
     "path": "data/people/p_w_bruce_cameron.json"
   },
   {
+    "id": "p_w_d_amaradeva",
+    "name": "W. D. Amaradeva",
+    "birth_year": 1927,
+    "path": "data/people/p_w_d_amaradeva.json"
+  },
+  {
     "id": "p_w_david_mcbrayer",
     "name": "W. David McBrayer",
     "birth_year": 1950,
@@ -272,6 +278,12 @@
     "path": "data/people/p_wagner_moura.json"
   },
   {
+    "id": "p_wagner_tiso",
+    "name": "Wagner Tiso",
+    "birth_year": 1945,
+    "path": "data/people/p_wagner_tiso.json"
+  },
+  {
     "id": "p_waheed_ijaduade",
     "name": "Waheed Ijaduade",
     "birth_year": 1968,
@@ -436,6 +448,12 @@
     "name": "Wajid Ali Shah",
     "birth_year": 1822,
     "path": "data/people/p_wajid_ali_shah.json"
+  },
+  {
+    "id": "p_wajid_nashad",
+    "name": "Wajid Nashad",
+    "birth_year": 1952,
+    "path": "data/people/p_wajid_nashad.json"
   },
   {
     "id": "p_wajiha_jendoubi",
@@ -5190,6 +5208,12 @@
     "path": "data/people/p_will_hislop.json"
   },
   {
+    "id": "p_will_hudson",
+    "name": "Will Hudson",
+    "birth_year": 1989,
+    "path": "data/people/p_will_hudson.json"
+  },
+  {
     "id": "p_will_hutchins",
     "name": "Will Hutchins",
     "birth_year": 1930,
@@ -6205,6 +6229,12 @@
     "name": "William Dore",
     "birth_year": 1941,
     "path": "data/people/p_william_dore.json"
+  },
+  {
+    "id": "p_william_douglashome",
+    "name": "William Douglas-Home",
+    "birth_year": 1912,
+    "path": "data/people/p_william_douglashome.json"
   },
   {
     "id": "p_william_dozier",
@@ -7684,6 +7714,12 @@
     "path": "data/people/p_wim_mertens.json"
   },
   {
+    "id": "p_wim_meuldijk",
+    "name": "Wim Meuldijk",
+    "birth_year": 1922,
+    "path": "data/people/p_wim_meuldijk.json"
+  },
+  {
     "id": "p_wim_opbrouck",
     "name": "Wim Opbrouck",
     "birth_year": 1969,
@@ -8129,6 +8165,12 @@
     "path": "data/people/p_witold_debicki.json"
   },
   {
+    "id": "p_witold_gombrowicz",
+    "name": "Witold Gombrowicz",
+    "birth_year": 1904,
+    "path": "data/people/p_witold_gombrowicz.json"
+  },
+  {
     "id": "p_witold_gruca",
     "name": "Witold Gruca",
     "birth_year": 1927,
@@ -8264,6 +8306,12 @@
     "name": "Woderu Ibaraki",
     "birth_year": 1985,
     "path": "data/people/p_woderu_ibaraki.json"
+  },
+  {
+    "id": "p_wodzimierz_gulgowski",
+    "name": "Włodzimierz Gulgowski",
+    "birth_year": 1944,
+    "path": "data/people/p_wodzimierz_gulgowski.json"
   },
   {
     "id": "p_wodzimierz_matuszak",
