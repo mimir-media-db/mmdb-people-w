@@ -1066,6 +1066,12 @@
     "path": "data/people/p_walter_flamme.json"
   },
   {
+    "id": "p_walter_fontana",
+    "name": "Walter Fontana",
+    "birth_year": 1956,
+    "path": "data/people/p_walter_fontana.json"
+  },
+  {
     "id": "p_walter_giller",
     "name": "Walter Giller",
     "birth_year": 1927,
@@ -1376,6 +1382,12 @@
     "name": "Walter Wehmeyer",
     "birth_year": 1962,
     "path": "data/people/p_walter_wehmeyer.json"
+  },
+  {
+    "id": "p_walter_werzowa",
+    "name": "Walter Werzowa",
+    "birth_year": 1960,
+    "path": "data/people/p_walter_werzowa.json"
   },
   {
     "id": "p_walter_woodman",
@@ -2641,6 +2653,12 @@
     "path": "data/people/p_wataru_kuriyama.json"
   },
   {
+    "id": "p_wataru_mimura",
+    "name": "Wataru Mimura",
+    "birth_year": 1953,
+    "path": "data/people/p_wataru_mimura.json"
+  },
+  {
     "id": "p_wataru_murakami",
     "name": "Wataru Murakami",
     "birth_year": 1971,
@@ -2821,6 +2839,12 @@
     "id": "p_wayne_harrison",
     "name": "Wayne Harrison",
     "path": "data/people/p_wayne_harrison.json"
+  },
+  {
+    "id": "p_wayne_hawkins",
+    "name": "Wayne Hawkins",
+    "birth_year": 1938,
+    "path": "data/people/p_wayne_hawkins.json"
   },
   {
     "id": "p_wayne_holloway",
@@ -3139,6 +3163,11 @@
     "name": "Weijun Chen",
     "birth_year": 1969,
     "path": "data/people/p_weijun_chen.json"
+  },
+  {
+    "id": "p_weijun_ma",
+    "name": "Weijun Ma",
+    "path": "data/people/p_weijun_ma.json"
   },
   {
     "id": "p_weilun_xi",
@@ -3802,6 +3831,12 @@
     "path": "data/people/p_werner_possardt.json"
   },
   {
+    "id": "p_werner_schmidtboelcke",
+    "name": "Werner Schmidt-Boelcke",
+    "birth_year": 1903,
+    "path": "data/people/p_werner_schmidtboelcke.json"
+  },
+  {
     "id": "p_werner_schneyder",
     "name": "Werner Schneyder",
     "birth_year": 1937,
@@ -4005,6 +4040,12 @@
     "name": "Wes Studi",
     "birth_year": 1947,
     "path": "data/people/p_wes_studi.json"
+  },
+  {
+    "id": "p_wesley_burrowes",
+    "name": "Wesley Burrowes",
+    "birth_year": 1930,
+    "path": "data/people/p_wesley_burrowes.json"
   },
   {
     "id": "p_wesley_c_skiles",
@@ -5859,6 +5900,12 @@
     "path": "data/people/p_william_boeva.json"
   },
   {
+    "id": "p_william_bolcom",
+    "name": "William Bolcom",
+    "birth_year": 1938,
+    "path": "data/people/p_william_bolcom.json"
+  },
+  {
     "id": "p_william_booth",
     "name": "William Booth",
     "birth_year": 1829,
@@ -5897,6 +5944,12 @@
     "id": "p_william_bridges",
     "name": "William Bridges",
     "path": "data/people/p_william_bridges.json"
+  },
+  {
+    "id": "p_william_broyles_jr",
+    "name": "William Broyles, Jr.",
+    "birth_year": 1944,
+    "path": "data/people/p_william_broyles_jr.json"
   },
   {
     "id": "p_william_bustos",
@@ -7992,6 +8045,12 @@
     "path": "data/people/p_witold_holtz.json"
   },
   {
+    "id": "p_witold_horwath",
+    "name": "Witold Horwath",
+    "birth_year": 1957,
+    "path": "data/people/p_witold_horwath.json"
+  },
+  {
     "id": "p_witold_orzechowski",
     "name": "Witold Orzechowski",
     "birth_year": 1941,
@@ -8574,6 +8633,12 @@
     "path": "data/people/p_wolfgang_bergmann.json"
   },
   {
+    "id": "p_wolfgang_beyer",
+    "name": "Wolfgang Beyer",
+    "birth_year": 1957,
+    "path": "data/people/p_wolfgang_beyer.json"
+  },
+  {
     "id": "p_wolfgang_bock",
     "name": "Wolfgang Böck",
     "birth_year": 1953,
@@ -8584,6 +8649,12 @@
     "name": "Wolfgang Bodison",
     "birth_year": 1966,
     "path": "data/people/p_wolfgang_bodison.json"
+  },
+  {
+    "id": "p_wolfgang_bohmer",
+    "name": "Wolfgang Böhmer",
+    "birth_year": 1958,
+    "path": "data/people/p_wolfgang_bohmer.json"
   },
   {
     "id": "p_wolfgang_boos",
@@ -8744,6 +8815,12 @@
     "id": "p_wolfgang_knopfler",
     "name": "Wolfgang Knöpfler",
     "path": "data/people/p_wolfgang_knopfler.json"
+  },
+  {
+    "id": "p_wolfgang_kohlhaase",
+    "name": "Wolfgang Kohlhaase",
+    "birth_year": 1931,
+    "path": "data/people/p_wolfgang_kohlhaase.json"
   },
   {
     "id": "p_wolfgang_kostal",
@@ -9372,6 +9449,12 @@
     "name": "Woody Harrelson",
     "birth_year": 1961,
     "path": "data/people/p_woody_harrelson.json"
+  },
+  {
+    "id": "p_woody_jackson",
+    "name": "Woody Jackson",
+    "birth_year": 1970,
+    "path": "data/people/p_woody_jackson.json"
   },
   {
     "id": "p_woody_norman",
