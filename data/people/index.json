@@ -5181,6 +5181,12 @@
     "path": "data/people/p_will_dunn.json"
   },
   {
+    "id": "p_will_eisner",
+    "name": "Will Eisner",
+    "birth_year": 1917,
+    "path": "data/people/p_will_eisner.json"
+  },
+  {
     "id": "p_will_erat",
     "name": "Will Erat",
     "path": "data/people/p_will_erat.json"
@@ -7967,6 +7973,12 @@
     "path": "data/people/p_win_butler.json"
   },
   {
+    "id": "p_win_lyovarin",
+    "name": "Win Lyovarin",
+    "birth_year": 1956,
+    "path": "data/people/p_win_lyovarin.json"
+  },
+  {
     "id": "p_win_morisaki",
     "name": "Win Morisaki",
     "birth_year": 1990,
@@ -8790,6 +8802,12 @@
     "path": "data/people/p_wojciech_ziminski.json"
   },
   {
+    "id": "p_wojciech_zogaa",
+    "name": "Wojciech Żogała",
+    "birth_year": 1965,
+    "path": "data/people/p_wojciech_zogaa.json"
+  },
+  {
     "id": "p_wojtek_wawszczyk",
     "name": "Wojtek Wawszczyk",
     "birth_year": 1976,
@@ -9485,6 +9503,12 @@
     "name": "Wolfram Koch",
     "birth_year": 1962,
     "path": "data/people/p_wolfram_koch.json"
+  },
+  {
+    "id": "p_wolfram_kunkel",
+    "name": "Wolfram Kunkel",
+    "birth_year": 1942,
+    "path": "data/people/p_wolfram_kunkel.json"
   },
   {
     "id": "p_wolfram_mayerschuchard",
