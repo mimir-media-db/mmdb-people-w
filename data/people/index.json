@@ -1403,6 +1403,12 @@
     "path": "data/people/p_walter_quiroz.json"
   },
   {
+    "id": "p_walter_reisch",
+    "name": "Walter Reisch",
+    "birth_year": 1903,
+    "path": "data/people/p_walter_reisch.json"
+  },
+  {
     "id": "p_walter_reyno",
     "name": "Walter Reyno",
     "birth_year": 1934,
@@ -5327,6 +5333,11 @@
     "path": "data/people/p_will_allen.json"
   },
   {
+    "id": "p_will_arbery",
+    "name": "Will Arbery",
+    "path": "data/people/p_will_arbery.json"
+  },
+  {
     "id": "p_will_arnett",
     "name": "Will Arnett",
     "birth_year": 1970,
@@ -6780,6 +6791,11 @@
     "name": "William Gibson",
     "birth_year": 1948,
     "path": "data/people/p_william_gibson.json"
+  },
+  {
+    "id": "p_william_gillies",
+    "name": "William Gillies",
+    "path": "data/people/p_william_gillies.json"
   },
   {
     "id": "p_william_goldenberg",
@@ -9468,6 +9484,12 @@
     "name": "Wolfgang Boos",
     "birth_year": 1974,
     "path": "data/people/p_wolfgang_boos.json"
+  },
+  {
+    "id": "p_wolfgang_brandstetter",
+    "name": "Wolfgang Brandstetter",
+    "birth_year": 1985,
+    "path": "data/people/p_wolfgang_brandstetter.json"
   },
   {
     "id": "p_wolfgang_braun",
