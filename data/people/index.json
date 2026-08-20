@@ -890,6 +890,12 @@
     "path": "data/people/p_wallis_day.json"
   },
   {
+    "id": "p_wally_badarou",
+    "name": "Wally Badarou",
+    "birth_year": 1955,
+    "path": "data/people/p_wally_badarou.json"
+  },
+  {
     "id": "p_wally_bayola",
     "name": "Wally Bayola",
     "birth_year": 1972,
@@ -4292,6 +4298,12 @@
     "path": "data/people/p_weronika_rosati.json"
   },
   {
+    "id": "p_weronika_tofilska",
+    "name": "Weronika Tofilska",
+    "birth_year": 1984,
+    "path": "data/people/p_weronika_tofilska.json"
+  },
+  {
     "id": "p_weruche_opia",
     "name": "Weruche Opia",
     "birth_year": 1987,
@@ -4617,6 +4629,11 @@
     "name": "Whip Hubley",
     "birth_year": 1957,
     "path": "data/people/p_whip_hubley.json"
+  },
+  {
+    "id": "p_whit_anderson",
+    "name": "Whit Anderson",
+    "path": "data/people/p_whit_anderson.json"
   },
   {
     "id": "p_whit_stillman",
@@ -8481,6 +8498,12 @@
     "path": "data/people/p_winnie_chang.json"
   },
   {
+    "id": "p_winnie_holzman",
+    "name": "Winnie Holzman",
+    "birth_year": 1954,
+    "path": "data/people/p_winnie_holzman.json"
+  },
+  {
     "id": "p_winnie_lau",
     "name": "Winnie Lau",
     "birth_year": 1971,
@@ -8654,6 +8677,12 @@
     "path": "data/people/p_wissam_sabbagh.json"
   },
   {
+    "id": "p_wissam_sabry",
+    "name": "Wissam Sabry",
+    "birth_year": 1973,
+    "path": "data/people/p_wissam_sabry.json"
+  },
+  {
     "id": "p_wissam_saliba",
     "name": "Wissam Saliba",
     "birth_year": 1988,
@@ -8794,6 +8823,11 @@
     "name": "Wivineke van Groningen",
     "birth_year": 1957,
     "path": "data/people/p_wivineke_van_groningen.json"
+  },
+  {
+    "id": "p_wiwek",
+    "name": "Wiwek",
+    "path": "data/people/p_wiwek.json"
   },
   {
     "id": "p_wiwid_gunawan",
