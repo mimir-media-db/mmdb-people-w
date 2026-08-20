@@ -3519,6 +3519,12 @@
     "path": "data/people/p_wellesley_wild.json"
   },
   {
+    "id": "p_wells_tower",
+    "name": "Wells Tower",
+    "birth_year": 1973,
+    "path": "data/people/p_wells_tower.json"
+  },
+  {
     "id": "p_wellson_chin",
     "name": "Wellson Chin",
     "birth_year": 1956,
@@ -4421,6 +4427,11 @@
     "name": "Wesley Howard",
     "birth_year": 1979,
     "path": "data/people/p_wesley_howard.json"
+  },
+  {
+    "id": "p_wesley_hughes",
+    "name": "Wesley Hughes",
+    "path": "data/people/p_wesley_hughes.json"
   },
   {
     "id": "p_wesley_john",
@@ -5365,6 +5376,11 @@
     "name": "Will Blair",
     "birth_year": 1999,
     "path": "data/people/p_will_blair.json"
+  },
+  {
+    "id": "p_will_boreing",
+    "name": "Will Boreing",
+    "path": "data/people/p_will_boreing.json"
   },
   {
     "id": "p_will_bowden",
@@ -6958,6 +6974,12 @@
     "name": "William Hutt",
     "birth_year": 1920,
     "path": "data/people/p_william_hutt.json"
+  },
+  {
+    "id": "p_william_ivory",
+    "name": "William Ivory",
+    "birth_year": 1963,
+    "path": "data/people/p_william_ivory.json"
   },
   {
     "id": "p_william_j_birnes",
