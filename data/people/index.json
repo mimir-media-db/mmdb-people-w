@@ -30,6 +30,12 @@
     "path": "data/people/p_w_earl_brown.json"
   },
   {
+    "id": "p_w_g_sebald",
+    "name": "W. G. Sebald",
+    "birth_year": 1944,
+    "path": "data/people/p_w_g_sebald.json"
+  },
+  {
     "id": "p_w_glasgow_phillips",
     "name": "W. Glasgow Phillips",
     "birth_year": 1968,
@@ -3392,6 +3398,11 @@
     "path": "data/people/p_wei_zhang.json"
   },
   {
+    "id": "p_wei_zhong",
+    "name": "Wei Zhong",
+    "path": "data/people/p_wei_zhong.json"
+  },
+  {
     "id": "p_wei_zi",
     "name": "Wei Zi",
     "birth_year": 1955,
@@ -3557,6 +3568,12 @@
     "name": "Wen Yann Shih",
     "birth_year": 1982,
     "path": "data/people/p_wen_yann_shih.json"
+  },
+  {
+    "id": "p_wen_yufang",
+    "name": "Wen Yu-Fang",
+    "birth_year": 1972,
+    "path": "data/people/p_wen_yufang.json"
   },
   {
     "id": "p_wen_zhang",
@@ -3942,6 +3959,12 @@
     "name": "Wenhui He",
     "birth_year": 1981,
     "path": "data/people/p_wenhui_he.json"
+  },
+  {
+    "id": "p_wenka_von_mikulicz",
+    "name": "Wenka von Mikulicz",
+    "birth_year": 1965,
+    "path": "data/people/p_wenka_von_mikulicz.json"
   },
   {
     "id": "p_wenliang_he",
@@ -5853,6 +5876,11 @@
     "name": "Will Tiao",
     "birth_year": 1973,
     "path": "data/people/p_will_tiao.json"
+  },
+  {
+    "id": "p_will_tracy",
+    "name": "Will Tracy",
+    "path": "data/people/p_will_tracy.json"
   },
   {
     "id": "p_will_tudor",
@@ -8912,6 +8940,11 @@
     "path": "data/people/p_wojciech_duryasz.json"
   },
   {
+    "id": "p_wojciech_frycz",
+    "name": "Wojciech Frycz",
+    "path": "data/people/p_wojciech_frycz.json"
+  },
+  {
     "id": "p_wojciech_gajewicz",
     "name": "Wojciech Gajewicz",
     "path": "data/people/p_wojciech_gajewicz.json"
@@ -9893,6 +9926,12 @@
     "name": "Wolfie Trausch",
     "birth_year": 1992,
     "path": "data/people/p_wolfie_trausch.json"
+  },
+  {
+    "id": "p_wolfmaximilian_liebich",
+    "name": "Wolf-Maximilian Liebich",
+    "birth_year": 1983,
+    "path": "data/people/p_wolfmaximilian_liebich.json"
   },
   {
     "id": "p_wolfniklas_schykowski",
