@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_william_faulkner",
+  "name": "William Faulkner",
+  "external_ids": {
+    "wikidata": "Q38392",
+    "imdb": "nm0001203"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1897,
+  "death_year": 1962
+}
