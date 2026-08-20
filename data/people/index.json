@@ -456,6 +456,12 @@
     "path": "data/people/p_wajid_ali_shah.json"
   },
   {
+    "id": "p_wajid_khan",
+    "name": "Wajid Khan",
+    "birth_year": 1981,
+    "path": "data/people/p_wajid_khan.json"
+  },
+  {
     "id": "p_wajid_nashad",
     "name": "Wajid Nashad",
     "birth_year": 1952,
@@ -1106,6 +1112,12 @@
     "name": "Walter F. Parkes",
     "birth_year": 1951,
     "path": "data/people/p_walter_f_parkes.json"
+  },
+  {
+    "id": "p_walter_fasano",
+    "name": "Walter Fasano",
+    "birth_year": 1970,
+    "path": "data/people/p_walter_fasano.json"
   },
   {
     "id": "p_walter_flamme",
@@ -2072,6 +2084,12 @@
     "name": "Wang Xun",
     "birth_year": 1974,
     "path": "data/people/p_wang_xun.json"
+  },
+  {
+    "id": "p_wang_yang",
+    "name": "Wang Yang",
+    "birth_year": 1955,
+    "path": "data/people/p_wang_yang.json"
   },
   {
     "id": "p_wang_yanhui",
@@ -5361,6 +5379,12 @@
     "path": "data/people/p_will_mcdonald.json"
   },
   {
+    "id": "p_will_mcrobb",
+    "name": "Will McRobb",
+    "birth_year": 1961,
+    "path": "data/people/p_will_mcrobb.json"
+  },
+  {
     "id": "p_will_merrick",
     "name": "Will Merrick",
     "birth_year": 1993,
@@ -6908,6 +6932,11 @@
     "path": "data/people/p_william_monahan.json"
   },
   {
+    "id": "p_william_morrissey",
+    "name": "William Morrissey",
+    "path": "data/people/p_william_morrissey.json"
+  },
+  {
     "id": "p_william_morts",
     "name": "William Morts",
     "path": "data/people/p_william_morts.json"
@@ -8425,6 +8454,12 @@
     "id": "p_wlodzimierz_otulak",
     "name": "Wlodzimierz Otulak",
     "path": "data/people/p_wlodzimierz_otulak.json"
+  },
+  {
+    "id": "p_wodek_pawlik",
+    "name": "Włodek Pawlik",
+    "birth_year": 1958,
+    "path": "data/people/p_wodek_pawlik.json"
   },
   {
     "id": "p_woderu_ibaraki",
