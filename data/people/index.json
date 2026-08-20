@@ -1882,6 +1882,12 @@
     "path": "data/people/p_wang_jingchun.json"
   },
   {
+    "id": "p_wang_jue",
+    "name": "Wang Jue",
+    "birth_year": 1995,
+    "path": "data/people/p_wang_jue.json"
+  },
+  {
     "id": "p_wang_jun",
     "name": "Wang Jun",
     "path": "data/people/p_wang_jun.json"
@@ -2340,6 +2346,11 @@
     "path": "data/people/p_wapah_ezeigwe.json"
   },
   {
+    "id": "p_waqar_ali",
+    "name": "Waqar Ali",
+    "path": "data/people/p_waqar_ali.json"
+  },
+  {
     "id": "p_waqar_siddiqui",
     "name": "Waqar Siddiqui",
     "path": "data/people/p_waqar_siddiqui.json"
@@ -2718,6 +2729,12 @@
     "name": "Warwick Thornton",
     "birth_year": 1970,
     "path": "data/people/p_warwick_thornton.json"
+  },
+  {
+    "id": "p_waryam_singh_sandhu",
+    "name": "Waryam Singh Sandhu",
+    "birth_year": 1945,
+    "path": "data/people/p_waryam_singh_sandhu.json"
   },
   {
     "id": "p_wash_westmoreland",
@@ -5080,6 +5097,11 @@
     "path": "data/people/p_wilfried_romoli.json"
   },
   {
+    "id": "p_wilfried_van_baelen",
+    "name": "Wilfried van Baelen",
+    "path": "data/people/p_wilfried_van_baelen.json"
+  },
+  {
     "id": "p_wilfy_rebimbus",
     "name": "Wilfy Rebimbus",
     "birth_year": 1942,
@@ -5237,6 +5259,12 @@
     "name": "Will Beinbrink",
     "birth_year": 1973,
     "path": "data/people/p_will_beinbrink.json"
+  },
+  {
+    "id": "p_will_blair",
+    "name": "Will Blair",
+    "birth_year": 1999,
+    "path": "data/people/p_will_blair.json"
   },
   {
     "id": "p_will_bowden",
@@ -8673,6 +8701,12 @@
     "path": "data/people/p_wlady.json"
   },
   {
+    "id": "p_wlodzimierz_kowalewski",
+    "name": "Wlodzimierz Kowalewski",
+    "birth_year": 1956,
+    "path": "data/people/p_wlodzimierz_kowalewski.json"
+  },
+  {
     "id": "p_wlodzimierz_otulak",
     "name": "Wlodzimierz Otulak",
     "path": "data/people/p_wlodzimierz_otulak.json"
@@ -8823,6 +8857,12 @@
     "name": "Wojciech Kamiński",
     "birth_year": 1973,
     "path": "data/people/p_wojciech_kaminski.json"
+  },
+  {
+    "id": "p_wojciech_karolak",
+    "name": "Wojciech Karolak",
+    "birth_year": 1939,
+    "path": "data/people/p_wojciech_karolak.json"
   },
   {
     "id": "p_wojciech_kasperski",
@@ -9454,6 +9494,12 @@
     "path": "data/people/p_wolfgang_liebeneiner.json"
   },
   {
+    "id": "p_wolfgang_liemberger",
+    "name": "Wolfgang Liemberger",
+    "birth_year": 1971,
+    "path": "data/people/p_wolfgang_liemberger.json"
+  },
+  {
     "id": "p_wolfgang_limmer",
     "name": "Wolfgang Limmer",
     "birth_year": 1946,
@@ -9492,6 +9538,12 @@
     "name": "Wolfgang Michael",
     "birth_year": 1955,
     "path": "data/people/p_wolfgang_michael.json"
+  },
+  {
+    "id": "p_wolfgang_mitterer",
+    "name": "Wolfgang Mitterer",
+    "birth_year": 1958,
+    "path": "data/people/p_wolfgang_mitterer.json"
   },
   {
     "id": "p_wolfgang_mueller",
@@ -9947,6 +9999,12 @@
     "name": "Wong Yeung Tat",
     "birth_year": 1979,
     "path": "data/people/p_wong_yeung_tat.json"
+  },
+  {
+    "id": "p_wong_ying",
+    "name": "Wong Ying",
+    "birth_year": 1956,
+    "path": "data/people/p_wong_ying.json"
   },
   {
     "id": "p_wong_younam",
@@ -10531,6 +10589,11 @@
     "name": "Wyman Wong",
     "birth_year": 1969,
     "path": "data/people/p_wyman_wong.json"
+  },
+  {
+    "id": "p_wynand_delport",
+    "name": "Wynand Delport",
+    "path": "data/people/p_wynand_delport.json"
   },
   {
     "id": "p_wyne",
