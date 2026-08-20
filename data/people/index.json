@@ -1753,6 +1753,12 @@
     "path": "data/people/p_wanetah_walmsley.json"
   },
   {
+    "id": "p_wang_anyi",
+    "name": "Wang Anyi",
+    "birth_year": 1954,
+    "path": "data/people/p_wang_anyi.json"
+  },
+  {
     "id": "p_wang_baoqiang",
     "name": "Wang Baoqiang",
     "birth_year": 1984,
@@ -2944,6 +2950,11 @@
     "id": "p_waxie_moon",
     "name": "Waxie Moon",
     "path": "data/people/p_waxie_moon.json"
+  },
+  {
+    "id": "p_waxx",
+    "name": "Waxx",
+    "path": "data/people/p_waxx.json"
   },
   {
     "id": "p_waylon_payne",
