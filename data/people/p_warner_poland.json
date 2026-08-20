@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_warner_poland",
+  "name": "Warner Poland",
+  "external_ids": {
+    "wikidata": "Q43215518",
+    "imdb": "nm0688860"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
