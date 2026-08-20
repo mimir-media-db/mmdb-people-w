@@ -318,6 +318,12 @@
     "path": "data/people/p_wai_kafai.json"
   },
   {
+    "id": "p_wai_lap_wu",
+    "name": "Wai Lap Wu",
+    "birth_year": 1936,
+    "path": "data/people/p_wai_lap_wu.json"
+  },
+  {
     "id": "p_wai_lu_kyaw",
     "name": "Wai Lu Kyaw",
     "path": "data/people/p_wai_lu_kyaw.json"
@@ -2202,6 +2208,12 @@
     "path": "data/people/p_ward_horton.json"
   },
   {
+    "id": "p_ward_hulselmans",
+    "name": "Ward Hulselmans",
+    "birth_year": 1949,
+    "path": "data/people/p_ward_hulselmans.json"
+  },
+  {
     "id": "p_ward_kerremans",
     "name": "Ward Kerremans",
     "birth_year": 1988,
@@ -2277,6 +2289,12 @@
     "id": "p_warner_loughlin",
     "name": "Warner Loughlin",
     "path": "data/people/p_warner_loughlin.json"
+  },
+  {
+    "id": "p_warner_poland",
+    "name": "Warner Poland",
+    "birth_year": 1971,
+    "path": "data/people/p_warner_poland.json"
   },
   {
     "id": "p_warner_saunders",
@@ -3689,6 +3707,12 @@
     "path": "data/people/p_werner_de_smedt.json"
   },
   {
+    "id": "p_werner_eplinius",
+    "name": "Werner Eplinius",
+    "birth_year": 1907,
+    "path": "data/people/p_werner_eplinius.json"
+  },
+  {
     "id": "p_werner_haindl",
     "name": "Werner Haindl",
     "birth_year": 1947,
@@ -4978,6 +5002,12 @@
     "path": "data/people/p_will_ferrell.json"
   },
   {
+    "id": "p_will_fetters",
+    "name": "Will Fetters",
+    "birth_year": 1999,
+    "path": "data/people/p_will_fetters.json"
+  },
+  {
     "id": "p_will_finn",
     "name": "Will Finn",
     "birth_year": 1957,
@@ -5151,6 +5181,12 @@
     "name": "Will Meugniot",
     "birth_year": 1951,
     "path": "data/people/p_will_meugniot.json"
+  },
+  {
+    "id": "p_will_musser",
+    "name": "Will Musser",
+    "birth_year": 1969,
+    "path": "data/people/p_will_musser.json"
   },
   {
     "id": "p_will_niava",
@@ -6175,6 +6211,12 @@
     "path": "data/people/p_william_goldman.json"
   },
   {
+    "id": "p_william_goldstein",
+    "name": "William Goldstein",
+    "birth_year": 1942,
+    "path": "data/people/p_william_goldstein.json"
+  },
+  {
     "id": "p_william_gonzalez",
     "name": "William González",
     "path": "data/people/p_william_gonzalez.json"
@@ -6385,6 +6427,11 @@
     "path": "data/people/p_william_jackson_harper.json"
   },
   {
+    "id": "p_william_jennings",
+    "name": "William Jennings",
+    "path": "data/people/p_william_jennings.json"
+  },
+  {
     "id": "p_william_jhnk_nielsen",
     "name": "William Jøhnk Nielsen",
     "birth_year": 1997,
@@ -6510,6 +6557,12 @@
     "name": "William Lustig",
     "birth_year": 1955,
     "path": "data/people/p_william_lustig.json"
+  },
+  {
+    "id": "p_william_mackinnon",
+    "name": "William Mackinnon",
+    "birth_year": 1953,
+    "path": "data/people/p_william_mackinnon.json"
   },
   {
     "id": "p_william_malone",
@@ -6749,6 +6802,12 @@
     "name": "William Rosenberg",
     "birth_year": 1920,
     "path": "data/people/p_william_rosenberg.json"
+  },
+  {
+    "id": "p_william_ross",
+    "name": "William Ross",
+    "birth_year": 1948,
+    "path": "data/people/p_william_ross.json"
   },
   {
     "id": "p_william_ruane",
@@ -8140,6 +8199,12 @@
     "path": "data/people/p_wojciech_ganczarek.json"
   },
   {
+    "id": "p_wojciech_golczewski",
+    "name": "Wojciech Golczewski",
+    "birth_year": 1980,
+    "path": "data/people/p_wojciech_golczewski.json"
+  },
+  {
     "id": "p_wojciech_jerzy_has",
     "name": "Wojciech Jerzy Has",
     "birth_year": 1925,
@@ -8162,6 +8227,12 @@
     "name": "Wojciech Kasperski",
     "birth_year": 1981,
     "path": "data/people/p_wojciech_kasperski.json"
+  },
+  {
+    "id": "p_wojciech_kilar",
+    "name": "Wojciech Kilar",
+    "birth_year": 1932,
+    "path": "data/people/p_wojciech_kilar.json"
   },
   {
     "id": "p_wojciech_klata",
@@ -8610,6 +8681,12 @@
     "path": "data/people/p_wolfgang_gasser.json"
   },
   {
+    "id": "p_wolfgang_glum",
+    "name": "Wolfgang Glum",
+    "birth_year": 1958,
+    "path": "data/people/p_wolfgang_glum.json"
+  },
+  {
     "id": "p_wolfgang_groos",
     "name": "Wolfgang Groos",
     "birth_year": 1968,
@@ -8980,6 +9057,12 @@
     "name": "Wolfram Berger",
     "birth_year": 1945,
     "path": "data/people/p_wolfram_berger.json"
+  },
+  {
+    "id": "p_wolfram_de_marco",
+    "name": "Wolfram de Marco",
+    "birth_year": 1966,
+    "path": "data/people/p_wolfram_de_marco.json"
   },
   {
     "id": "p_wolfram_huke",
@@ -9385,6 +9468,12 @@
     "name": "Wouter Steenbergen",
     "birth_year": 1950,
     "path": "data/people/p_wouter_steenbergen.json"
+  },
+  {
+    "id": "p_wouter_van_bemmel",
+    "name": "Wouter van Bemmel",
+    "birth_year": 1953,
+    "path": "data/people/p_wouter_van_bemmel.json"
   },
   {
     "id": "p_wouter_zweers",
