@@ -12,6 +12,12 @@
     "path": "data/people/p_w_d_amaradeva.json"
   },
   {
+    "id": "p_w_d_richter",
+    "name": "W. D. Richter",
+    "birth_year": 1945,
+    "path": "data/people/p_w_d_richter.json"
+  },
+  {
     "id": "p_w_david_mcbrayer",
     "name": "W. David McBrayer",
     "birth_year": 1950,
@@ -4934,6 +4940,12 @@
     "path": "data/people/p_wilfried_romoli.json"
   },
   {
+    "id": "p_wilfy_rebimbus",
+    "name": "Wilfy Rebimbus",
+    "birth_year": 1942,
+    "path": "data/people/p_wilfy_rebimbus.json"
+  },
+  {
     "id": "p_wilgo_baarn",
     "name": "Wilgo Baarn",
     "birth_year": 1945,
@@ -6053,6 +6065,12 @@
     "name": "William Bourdon",
     "birth_year": 1956,
     "path": "data/people/p_william_bourdon.json"
+  },
+  {
+    "id": "p_william_boyd",
+    "name": "William Boyd",
+    "birth_year": 1952,
+    "path": "data/people/p_william_boyd.json"
   },
   {
     "id": "p_william_boyer",
@@ -7237,6 +7255,12 @@
     "name": "William Utay",
     "birth_year": 1947,
     "path": "data/people/p_william_utay.json"
+  },
+  {
+    "id": "p_william_v_malpede",
+    "name": "William V. Malpede",
+    "birth_year": 1964,
+    "path": "data/people/p_william_v_malpede.json"
   },
   {
     "id": "p_william_valerian",
@@ -8683,6 +8707,12 @@
     "path": "data/people/p_wojciech_zielinski.json"
   },
   {
+    "id": "p_wojciech_ziminski",
+    "name": "Wojciech Zimiński",
+    "birth_year": 1962,
+    "path": "data/people/p_wojciech_ziminski.json"
+  },
+  {
     "id": "p_wojtek_wawszczyk",
     "name": "Wojtek Wawszczyk",
     "birth_year": 1976,
@@ -9019,6 +9049,11 @@
     "name": "Wolfgang Hübsch",
     "birth_year": 1939,
     "path": "data/people/p_wolfgang_hubsch.json"
+  },
+  {
+    "id": "p_wolfgang_jack",
+    "name": "Wolfgang Jack",
+    "path": "data/people/p_wolfgang_jack.json"
   },
   {
     "id": "p_wolfgang_kaleck",
