@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_willie_colon",
+  "name": "Willie Colón",
+  "external_ids": {
+    "wikidata": "Q1388336",
+    "imdb": "nm0173138"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1950,
+  "death_year": 2026
+}
