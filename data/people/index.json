@@ -106,6 +106,12 @@
     "path": "data/people/p_wabinle_nabie.json"
   },
   {
+    "id": "p_wacaw_holewinski",
+    "name": "Wacław Holewiński",
+    "birth_year": 1956,
+    "path": "data/people/p_wacaw_holewinski.json"
+  },
+  {
     "id": "p_wacaw_warcho",
     "name": "Wacław Warchoł",
     "birth_year": 1991,
@@ -235,6 +241,12 @@
     "name": "Wael Ehsan",
     "birth_year": 1963,
     "path": "data/people/p_wael_ehsan.json"
+  },
+  {
+    "id": "p_wael_hamdy",
+    "name": "Wael Hamdy",
+    "birth_year": 1975,
+    "path": "data/people/p_wael_hamdy.json"
   },
   {
     "id": "p_wael_kfoury",
