@@ -1333,6 +1333,12 @@
     "path": "data/people/p_walter_murch.json"
   },
   {
+    "id": "p_walter_murphy",
+    "name": "Walter Murphy",
+    "birth_year": 1952,
+    "path": "data/people/p_walter_murphy.json"
+  },
+  {
     "id": "p_walter_nestola",
     "name": "Walter Nestola",
     "birth_year": 1987,
@@ -1723,6 +1729,12 @@
     "name": "Wang Baoqiang",
     "birth_year": 1984,
     "path": "data/people/p_wang_baoqiang.json"
+  },
+  {
+    "id": "p_wang_bin",
+    "name": "Wang Bin",
+    "birth_year": 1989,
+    "path": "data/people/p_wang_bin.json"
   },
   {
     "id": "p_wang_bing",
@@ -2475,6 +2487,12 @@
     "path": "data/people/p_warren_belle.json"
   },
   {
+    "id": "p_warren_bennett",
+    "name": "Warren Bennett",
+    "birth_year": 1962,
+    "path": "data/people/p_warren_bennett.json"
+  },
+  {
     "id": "p_warren_berlinger",
     "name": "Warren Berlinger",
     "birth_year": 1937,
@@ -3090,6 +3108,12 @@
     "name": "Wayne Newton",
     "birth_year": 1942,
     "path": "data/people/p_wayne_newton.json"
+  },
+  {
+    "id": "p_wayne_peet",
+    "name": "Wayne Peet",
+    "birth_year": 1954,
+    "path": "data/people/p_wayne_peet.json"
   },
   {
     "id": "p_wayne_pere",
@@ -5966,6 +5990,11 @@
     "path": "data/people/p_willemijn_van_poppel.json"
   },
   {
+    "id": "p_willemine_van_de_wiel",
+    "name": "Willemine van de Wiel",
+    "path": "data/people/p_willemine_van_de_wiel.json"
+  },
+  {
     "id": "p_willi_baer",
     "name": "Willi Baer",
     "birth_year": 1951,
@@ -7490,6 +7519,12 @@
     "path": "data/people/p_william_westaway.json"
   },
   {
+    "id": "p_william_wheeler",
+    "name": "William Wheeler",
+    "birth_year": 1967,
+    "path": "data/people/p_william_wheeler.json"
+  },
+  {
     "id": "p_william_winckler",
     "name": "William Winckler",
     "birth_year": 1964,
@@ -7766,6 +7801,12 @@
     "name": "Willy Vandersteen",
     "birth_year": 1913,
     "path": "data/people/p_willy_vandersteen.json"
+  },
+  {
+    "id": "p_willy_vlautin",
+    "name": "Willy Vlautin",
+    "birth_year": 1966,
+    "path": "data/people/p_willy_vlautin.json"
   },
   {
     "id": "p_wilm_huygen",
@@ -8651,6 +8692,12 @@
     "path": "data/people/p_wojciech_adamczyk.json"
   },
   {
+    "id": "p_wojciech_alszer",
+    "name": "Wojciech Alszer",
+    "birth_year": 1980,
+    "path": "data/people/p_wojciech_alszer.json"
+  },
+  {
     "id": "p_wojciech_bach",
     "name": "Wojciech Błach",
     "birth_year": 1972,
@@ -8685,6 +8732,11 @@
     "name": "Wojciech Duryasz",
     "birth_year": 1940,
     "path": "data/people/p_wojciech_duryasz.json"
+  },
+  {
+    "id": "p_wojciech_gajewicz",
+    "name": "Wojciech Gajewicz",
+    "path": "data/people/p_wojciech_gajewicz.json"
   },
   {
     "id": "p_wojciech_ganczarek",
@@ -9325,6 +9377,12 @@
     "name": "Wolfgang Lehmann",
     "birth_year": 1966,
     "path": "data/people/p_wolfgang_lehmann.json"
+  },
+  {
+    "id": "p_wolfgang_lenk",
+    "name": "Wolfgang Lenk",
+    "birth_year": 1966,
+    "path": "data/people/p_wolfgang_lenk.json"
   },
   {
     "id": "p_wolfgang_lesowsky",
@@ -10202,6 +10260,11 @@
     "name": "Wu Ma",
     "birth_year": 1942,
     "path": "data/people/p_wu_ma.json"
+  },
+  {
+    "id": "p_wu_nan",
+    "name": "Wu Nan",
+    "path": "data/people/p_wu_nan.json"
   },
   {
     "id": "p_wu_nienjen",
