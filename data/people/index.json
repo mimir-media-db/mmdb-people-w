@@ -1132,6 +1132,11 @@
     "path": "data/people/p_walter_emanuel_jones.json"
   },
   {
+    "id": "p_walter_espinoza",
+    "name": "Walter Espinoza",
+    "path": "data/people/p_walter_espinoza.json"
+  },
+  {
     "id": "p_walter_f_parkes",
     "name": "Walter F. Parkes",
     "birth_year": 1951,
@@ -3834,6 +3839,11 @@
     "path": "data/people/p_wendyam_sawadogo.json"
   },
   {
+    "id": "p_wendyz_zheng",
+    "name": "Wendyz Zheng",
+    "path": "data/people/p_wendyz_zheng.json"
+  },
+  {
     "id": "p_weng_weng",
     "name": "Weng Weng",
     "birth_year": 1957,
@@ -5052,6 +5062,12 @@
     "path": "data/people/p_wilfried_meance.json"
   },
   {
+    "id": "p_wilfried_meichtry",
+    "name": "Wilfried Meichtry",
+    "birth_year": 1964,
+    "path": "data/people/p_wilfried_meichtry.json"
+  },
+  {
     "id": "p_wilfried_pucher",
     "name": "Wilfried Pucher",
     "birth_year": 1940,
@@ -5198,6 +5214,17 @@
     "id": "p_will_barratt",
     "name": "Will Barratt",
     "path": "data/people/p_will_barratt.json"
+  },
+  {
+    "id": "p_will_bates",
+    "name": "Will Bates",
+    "birth_year": 1976,
+    "path": "data/people/p_will_bates.json"
+  },
+  {
+    "id": "p_will_beall",
+    "name": "Will Beall",
+    "path": "data/people/p_will_beall.json"
   },
   {
     "id": "p_will_becher",
@@ -6518,6 +6545,12 @@
     "path": "data/people/p_william_fairman.json"
   },
   {
+    "id": "p_william_faulkner",
+    "name": "William Faulkner",
+    "birth_year": 1897,
+    "path": "data/people/p_william_faulkner.json"
+  },
+  {
     "id": "p_william_fichtner",
     "name": "William Fichtner",
     "birth_year": 1956,
@@ -6839,6 +6872,12 @@
     "name": "William Johnston",
     "birth_year": 1925,
     "path": "data/people/p_william_johnston.json"
+  },
+  {
+    "id": "p_william_joyce",
+    "name": "William Joyce",
+    "birth_year": 1957,
+    "path": "data/people/p_william_joyce.json"
   },
   {
     "id": "p_william_karel",
@@ -7546,6 +7585,12 @@
     "id": "p_william_woods",
     "name": "William Woods",
     "path": "data/people/p_william_woods.json"
+  },
+  {
+    "id": "p_william_yeh",
+    "name": "William Yeh",
+    "birth_year": 1999,
+    "path": "data/people/p_william_yeh.json"
   },
   {
     "id": "p_william_youmans",
@@ -8466,6 +8511,12 @@
     "path": "data/people/p_withit_kamsrakaew.json"
   },
   {
+    "id": "p_witi_ihimaera",
+    "name": "Witi Ihimaera",
+    "birth_year": 1944,
+    "path": "data/people/p_witi_ihimaera.json"
+  },
+  {
     "id": "p_witold_adamek",
     "name": "Witold Adamek",
     "birth_year": 1945,
@@ -8748,6 +8799,12 @@
     "name": "Wojciech Golczewski",
     "birth_year": 1980,
     "path": "data/people/p_wojciech_golczewski.json"
+  },
+  {
+    "id": "p_wojciech_horny",
+    "name": "Wojciech Horny",
+    "birth_year": 1974,
+    "path": "data/people/p_wojciech_horny.json"
   },
   {
     "id": "p_wojciech_jerzy_has",
