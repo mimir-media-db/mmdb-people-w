@@ -118,6 +118,12 @@
     "path": "data/people/p_wacaw_warcho.json"
   },
   {
+    "id": "p_wacaw_zimpel",
+    "name": "Wacław Zimpel",
+    "birth_year": 1983,
+    "path": "data/people/p_wacaw_zimpel.json"
+  },
+  {
     "id": "p_wachirawit_ruangwiwat",
     "name": "Wachirawit Ruangwiwat",
     "birth_year": 2000,
@@ -9806,6 +9812,12 @@
     "name": "Wolfram de Marco",
     "birth_year": 1966,
     "path": "data/people/p_wolfram_de_marco.json"
+  },
+  {
+    "id": "p_wolfram_fleischhauer",
+    "name": "Wolfram Fleischhauer",
+    "birth_year": 1961,
+    "path": "data/people/p_wolfram_fleischhauer.json"
   },
   {
     "id": "p_wolfram_huke",
