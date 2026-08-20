@@ -2718,6 +2718,12 @@
     "path": "data/people/p_wataru_hiranami.json"
   },
   {
+    "id": "p_wataru_hokoyama",
+    "name": "Wataru Hokoyama",
+    "birth_year": 1974,
+    "path": "data/people/p_wataru_hokoyama.json"
+  },
+  {
     "id": "p_wataru_hyuga",
     "name": "Wataru Hyūga",
     "birth_year": 2004,
@@ -4975,6 +4981,12 @@
     "path": "data/people/p_wilhelm_grotenfelt.json"
   },
   {
+    "id": "p_wilhelm_jensen",
+    "name": "Wilhelm Jensen",
+    "birth_year": 1837,
+    "path": "data/people/p_wilhelm_jensen.json"
+  },
+  {
     "id": "p_wilhelm_liebenberg",
     "name": "Wilhelm Liebenberg",
     "path": "data/people/p_wilhelm_liebenberg.json"
@@ -6227,6 +6239,12 @@
     "path": "data/people/p_william_davenport.json"
   },
   {
+    "id": "p_william_david_ross",
+    "name": "William David Ross",
+    "birth_year": 1877,
+    "path": "data/people/p_william_david_ross.json"
+  },
+  {
     "id": "p_william_davies",
     "name": "William Davies",
     "birth_year": 1999,
@@ -6720,6 +6738,12 @@
     "path": "data/people/p_william_lau.json"
   },
   {
+    "id": "p_william_lava",
+    "name": "William Lava",
+    "birth_year": 1911,
+    "path": "data/people/p_william_lava.json"
+  },
+  {
     "id": "p_william_lebghil",
     "name": "William Lebghil",
     "birth_year": 1990,
@@ -7211,6 +7235,12 @@
     "path": "data/people/p_william_teitler.json"
   },
   {
+    "id": "p_william_tepper",
+    "name": "William Tepper",
+    "birth_year": 1948,
+    "path": "data/people/p_william_tepper.json"
+  },
+  {
     "id": "p_william_thurston",
     "name": "William Thurston",
     "birth_year": 1946,
@@ -7380,6 +7410,12 @@
     "name": "Willie Chan",
     "birth_year": 1941,
     "path": "data/people/p_willie_chan.json"
+  },
+  {
+    "id": "p_willie_colon",
+    "name": "Willie Colón",
+    "birth_year": 1950,
+    "path": "data/people/p_willie_colon.json"
   },
   {
     "id": "p_willie_d",
@@ -7964,6 +8000,12 @@
     "name": "Winfried Glatzeder",
     "birth_year": 1945,
     "path": "data/people/p_winfried_glatzeder.json"
+  },
+  {
+    "id": "p_winfried_grabe",
+    "name": "Winfried Grabe",
+    "birth_year": 1962,
+    "path": "data/people/p_winfried_grabe.json"
   },
   {
     "id": "p_winfried_junge",
