@@ -1315,6 +1315,11 @@
     "path": "data/people/p_walter_luengas.json"
   },
   {
+    "id": "p_walter_lupo",
+    "name": "Walter Lupo",
+    "path": "data/people/p_walter_lupo.json"
+  },
+  {
     "id": "p_walter_mair",
     "name": "Walter Mair",
     "birth_year": 1978,
@@ -2407,6 +2412,11 @@
     "name": "Ward Kerremans",
     "birth_year": 1988,
     "path": "data/people/p_ward_kerremans.json"
+  },
+  {
+    "id": "p_ward_parry",
+    "name": "Ward Parry",
+    "path": "data/people/p_ward_parry.json"
   },
   {
     "id": "p_ward_powers",
@@ -3510,6 +3520,11 @@
     "path": "data/people/p_wen_muye.json"
   },
   {
+    "id": "p_wen_ning",
+    "name": "Wen Ning",
+    "path": "data/people/p_wen_ning.json"
+  },
+  {
     "id": "p_wen_wen",
     "name": "Wen Wen",
     "birth_year": 1980,
@@ -3585,6 +3600,12 @@
     "name": "Wendell Bendelack",
     "birth_year": 1973,
     "path": "data/people/p_wendell_bendelack.json"
+  },
+  {
+    "id": "p_wendell_mayes",
+    "name": "Wendell Mayes",
+    "birth_year": 1918,
+    "path": "data/people/p_wendell_mayes.json"
   },
   {
     "id": "p_wendell_pierce",
@@ -3733,6 +3754,11 @@
     "name": "Wendy Hughes",
     "birth_year": 1952,
     "path": "data/people/p_wendy_hughes.json"
+  },
+  {
+    "id": "p_wendy_jewell",
+    "name": "Wendy Jewell",
+    "path": "data/people/p_wendy_jewell.json"
   },
   {
     "id": "p_wendy_jo_carlton",
@@ -4304,6 +4330,11 @@
     "name": "Wes Studi",
     "birth_year": 1947,
     "path": "data/people/p_wes_studi.json"
+  },
+  {
+    "id": "p_wes_tooke",
+    "name": "Wes Tooke",
+    "path": "data/people/p_wes_tooke.json"
   },
   {
     "id": "p_wesley_burrowes",
@@ -6955,6 +6986,11 @@
     "path": "data/people/p_william_kong.json"
   },
   {
+    "id": "p_william_kudahl_srensen",
+    "name": "William Kudahl Sørensen",
+    "path": "data/people/p_william_kudahl_srensen.json"
+  },
+  {
     "id": "p_william_kurelek",
     "name": "William Kurelek",
     "birth_year": 1927,
@@ -7529,6 +7565,12 @@
     "name": "William Tuckett",
     "birth_year": 1968,
     "path": "data/people/p_william_tuckett.json"
+  },
+  {
+    "id": "p_william_tyler",
+    "name": "William Tyler",
+    "birth_year": 1979,
+    "path": "data/people/p_william_tyler.json"
   },
   {
     "id": "p_william_tyler_smith",
@@ -8991,6 +9033,12 @@
     "path": "data/people/p_wojciech_pszoniak.json"
   },
   {
+    "id": "p_wojciech_rzehak",
+    "name": "Wojciech Rzehak",
+    "birth_year": 1966,
+    "path": "data/people/p_wojciech_rzehak.json"
+  },
+  {
     "id": "p_wojciech_siemion",
     "name": "Wojciech Siemion",
     "birth_year": 1928,
@@ -9377,6 +9425,12 @@
     "path": "data/people/p_wolfgang_fischer.json"
   },
   {
+    "id": "p_wolfgang_frisch",
+    "name": "Wolfgang Frisch",
+    "birth_year": 1974,
+    "path": "data/people/p_wolfgang_frisch.json"
+  },
+  {
     "id": "p_wolfgang_gasser",
     "name": "Wolfgang Gasser",
     "birth_year": 1927,
@@ -9647,6 +9701,12 @@
     "path": "data/people/p_wolfgang_pissors.json"
   },
   {
+    "id": "p_wolfgang_plagge",
+    "name": "Wolfgang Plagge",
+    "birth_year": 1960,
+    "path": "data/people/p_wolfgang_plagge.json"
+  },
+  {
     "id": "p_wolfgang_pregler",
     "name": "Wolfgang Pregler",
     "birth_year": 1956,
@@ -9812,6 +9872,12 @@
     "name": "Wolfram de Marco",
     "birth_year": 1966,
     "path": "data/people/p_wolfram_de_marco.json"
+  },
+  {
+    "id": "p_wolfram_eckert",
+    "name": "Wolfram Eckert",
+    "birth_year": 1982,
+    "path": "data/people/p_wolfram_eckert.json"
   },
   {
     "id": "p_wolfram_fleischhauer",
@@ -10648,6 +10714,12 @@
     "name": "Wynonna Judd",
     "birth_year": 1964,
     "path": "data/people/p_wynonna_judd.json"
+  },
+  {
+    "id": "p_wynton_marsalis",
+    "name": "Wynton Marsalis",
+    "birth_year": 1961,
+    "path": "data/people/p_wynton_marsalis.json"
   },
   {
     "id": "p_wyomi_reed",
