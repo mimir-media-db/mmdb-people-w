@@ -1878,6 +1878,12 @@
     "path": "data/people/p_wang_huiling.json"
   },
   {
+    "id": "p_wang_hyeji",
+    "name": "Wang Hye-ji",
+    "birth_year": 1985,
+    "path": "data/people/p_wang_hyeji.json"
+  },
+  {
     "id": "p_wang_jia",
     "name": "Wang Jia",
     "birth_year": 1900,
@@ -2290,6 +2296,11 @@
     "name": "Wang Zhiwen",
     "birth_year": 1966,
     "path": "data/people/p_wang_zhiwen.json"
+  },
+  {
+    "id": "p_wang_zhiyi",
+    "name": "Wang Zhiyi",
+    "path": "data/people/p_wang_zhiyi.json"
   },
   {
     "id": "p_wang_zhonglei",
@@ -5321,6 +5332,12 @@
     "path": "data/people/p_will_beinbrink.json"
   },
   {
+    "id": "p_will_berson",
+    "name": "Will Berson",
+    "birth_year": 1999,
+    "path": "data/people/p_will_berson.json"
+  },
+  {
     "id": "p_will_blair",
     "name": "Will Blair",
     "birth_year": 1999,
@@ -5813,6 +5830,11 @@
     "name": "Will Spoor",
     "birth_year": 1927,
     "path": "data/people/p_will_spoor.json"
+  },
+  {
+    "id": "p_will_staples",
+    "name": "Will Staples",
+    "path": "data/people/p_will_staples.json"
   },
   {
     "id": "p_will_swenson",
@@ -9108,6 +9130,12 @@
     "name": "Wojciech Tremiszewski",
     "birth_year": 1978,
     "path": "data/people/p_wojciech_tremiszewski.json"
+  },
+  {
+    "id": "p_wojciech_urbanski",
+    "name": "Wojciech Urbański",
+    "birth_year": 1986,
+    "path": "data/people/p_wojciech_urbanski.json"
   },
   {
     "id": "p_wojciech_waglewski",
