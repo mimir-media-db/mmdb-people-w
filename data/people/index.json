@@ -1203,6 +1203,12 @@
     "path": "data/people/p_walter_hill.json"
   },
   {
+    "id": "p_walter_hus",
+    "name": "Walter Hus",
+    "birth_year": 1959,
+    "path": "data/people/p_walter_hus.json"
+  },
+  {
     "id": "p_walter_jakob",
     "name": "Walter Jakob",
     "birth_year": 1974,
@@ -1284,6 +1290,12 @@
     "name": "Walter Luengas",
     "birth_year": 1968,
     "path": "data/people/p_walter_luengas.json"
+  },
+  {
+    "id": "p_walter_mair",
+    "name": "Walter Mair",
+    "birth_year": 1978,
+    "path": "data/people/p_walter_mair.json"
   },
   {
     "id": "p_walter_manrique_cervantes",
@@ -2853,6 +2865,12 @@
     "name": "Wawan Wanisar",
     "birth_year": 1949,
     "path": "data/people/p_wawan_wanisar.json"
+  },
+  {
+    "id": "p_wax",
+    "name": "Wax",
+    "birth_year": 1980,
+    "path": "data/people/p_wax.json"
   },
   {
     "id": "p_waxie_moon",
@@ -6646,6 +6664,12 @@
     "path": "data/people/p_william_hanna.json"
   },
   {
+    "id": "p_william_harrison_hays",
+    "name": "William Harrison Hays",
+    "birth_year": 1879,
+    "path": "data/people/p_william_harrison_hays.json"
+  },
+  {
     "id": "p_william_haugaard_petersen",
     "name": "William Haugaard Petersen",
     "path": "data/people/p_william_haugaard_petersen.json"
@@ -7980,6 +8004,12 @@
     "path": "data/people/p_wim_schluter.json"
   },
   {
+    "id": "p_wim_selles",
+    "name": "Wim Selles",
+    "birth_year": 1956,
+    "path": "data/people/p_wim_selles.json"
+  },
+  {
     "id": "p_wim_serlie",
     "name": "Wim Serlie",
     "birth_year": 1946,
@@ -8353,6 +8383,12 @@
     "name": "Wisp",
     "birth_year": 2003,
     "path": "data/people/p_wisp.json"
+  },
+  {
+    "id": "p_wissam_joubran",
+    "name": "Wissam Joubran",
+    "birth_year": 1983,
+    "path": "data/people/p_wissam_joubran.json"
   },
   {
     "id": "p_wissam_sabbagh",
@@ -9521,6 +9557,12 @@
     "path": "data/people/p_wolfgang_schenck.json"
   },
   {
+    "id": "p_wolfgang_schlogl",
+    "name": "Wolfgang Schlögl",
+    "birth_year": 1999,
+    "path": "data/people/p_wolfgang_schlogl.json"
+  },
+  {
     "id": "p_wolfgang_schussel",
     "name": "Wolfgang Schüssel",
     "birth_year": 1945,
@@ -9924,6 +9966,11 @@
     "name": "Woody Omens",
     "birth_year": 1999,
     "path": "data/people/p_woody_omens.json"
+  },
+  {
+    "id": "p_woody_pak",
+    "name": "Woody Pak",
+    "path": "data/people/p_woody_pak.json"
   },
   {
     "id": "p_woody_vasulka",
