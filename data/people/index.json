@@ -284,6 +284,12 @@
     "path": "data/people/p_waheeda_rehman.json"
   },
   {
+    "id": "p_wahid_hamed",
+    "name": "Wahid Hamed",
+    "birth_year": 1944,
+    "path": "data/people/p_wahid_hamed.json"
+  },
+  {
     "id": "p_wahid_seif",
     "name": "Wahid Seif",
     "birth_year": 1939,
@@ -424,6 +430,12 @@
     "id": "p_wajed_ali_sumon",
     "name": "Wajed Ali Sumon",
     "path": "data/people/p_wajed_ali_sumon.json"
+  },
+  {
+    "id": "p_wajid_ali_shah",
+    "name": "Wajid Ali Shah",
+    "birth_year": 1822,
+    "path": "data/people/p_wajid_ali_shah.json"
   },
   {
     "id": "p_wajiha_jendoubi",
@@ -2859,6 +2871,12 @@
     "name": "Wayne Gretzky",
     "birth_year": 1961,
     "path": "data/people/p_wayne_gretzky.json"
+  },
+  {
+    "id": "p_wayne_grigsby",
+    "name": "Wayne Grigsby",
+    "birth_year": 1946,
+    "path": "data/people/p_wayne_grigsby.json"
   },
   {
     "id": "p_wayne_groom",
@@ -5829,6 +5847,12 @@
     "path": "data/people/p_william_accambray.json"
   },
   {
+    "id": "p_william_aldridge",
+    "name": "William Aldridge",
+    "birth_year": 1950,
+    "path": "data/people/p_william_aldridge.json"
+  },
+  {
     "id": "p_william_allen_young",
     "name": "William Allen Young",
     "birth_year": 1954,
@@ -8382,6 +8406,18 @@
     "name": "Wojciech Kuliński",
     "birth_year": 1970,
     "path": "data/people/p_wojciech_kulinski.json"
+  },
+  {
+    "id": "p_wojciech_lemanski",
+    "name": "Wojciech Lemański",
+    "birth_year": 1963,
+    "path": "data/people/p_wojciech_lemanski.json"
+  },
+  {
+    "id": "p_wojciech_lepianka",
+    "name": "Wojciech Lepianka",
+    "birth_year": 1963,
+    "path": "data/people/p_wojciech_lepianka.json"
   },
   {
     "id": "p_wojciech_machnicki",
