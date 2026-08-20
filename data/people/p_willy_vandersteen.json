@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_willy_vandersteen",
+  "name": "Willy Vandersteen",
+  "external_ids": {
+    "wikidata": "Q543908",
+    "imdb": "nm0998246"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1913,
+  "death_year": 1990
+}
