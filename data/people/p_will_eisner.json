@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_will_eisner",
+  "name": "Will Eisner",
+  "external_ids": {
+    "wikidata": "Q309850",
+    "imdb": "nm0252162"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1917,
+  "death_year": 2005
+}
