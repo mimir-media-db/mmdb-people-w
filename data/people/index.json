@@ -627,6 +627,12 @@
     "path": "data/people/p_waldemar_wilkoek.json"
   },
   {
+    "id": "p_waldo_de_los_rios",
+    "name": "Waldo de los Ríos",
+    "birth_year": 1934,
+    "path": "data/people/p_waldo_de_los_rios.json"
+  },
+  {
     "id": "p_wale",
     "name": "Wale",
     "birth_year": 1984,
@@ -1042,6 +1048,12 @@
     "name": "Walter Carvalho",
     "birth_year": 1946,
     "path": "data/people/p_walter_carvalho.json"
+  },
+  {
+    "id": "p_walter_cikan",
+    "name": "Walter Cikan",
+    "birth_year": 1944,
+    "path": "data/people/p_walter_cikan.json"
   },
   {
     "id": "p_walter_clerici",
@@ -2627,6 +2639,11 @@
     "path": "data/people/p_wart_kamps.json"
   },
   {
+    "id": "p_wart_wamsteker",
+    "name": "Wart Wamsteker",
+    "path": "data/people/p_wart_wamsteker.json"
+  },
+  {
     "id": "p_wartnerchaney",
     "name": "Wartnerchaney",
     "birth_year": 1977,
@@ -2784,10 +2801,22 @@
     "path": "data/people/p_wataru_takagi.json"
   },
   {
+    "id": "p_watermelon_slim",
+    "name": "Watermelon Slim",
+    "birth_year": 1948,
+    "path": "data/people/p_watermelon_slim.json"
+  },
+  {
     "id": "p_watkin_tudor_jones",
     "name": "Watkin Tudor Jones",
     "birth_year": 1974,
     "path": "data/people/p_watkin_tudor_jones.json"
+  },
+  {
+    "id": "p_watt_key",
+    "name": "Watt Key",
+    "birth_year": 1970,
+    "path": "data/people/p_watt_key.json"
   },
   {
     "id": "p_wattie_buchan",
@@ -4323,6 +4352,12 @@
     "path": "data/people/p_wesley_woods.json"
   },
   {
+    "id": "p_west_dylan_thordson",
+    "name": "West Dylan Thordson",
+    "birth_year": 1976,
+    "path": "data/people/p_west_dylan_thordson.json"
+  },
+  {
     "id": "p_west_mulholland",
     "name": "West Mulholland",
     "path": "data/people/p_west_mulholland.json"
@@ -5834,6 +5869,12 @@
     "path": "data/people/p_willem_thijssen.json"
   },
   {
+    "id": "p_willem_van_baarsen",
+    "name": "Willem van Baarsen",
+    "birth_year": 1999,
+    "path": "data/people/p_willem_van_baarsen.json"
+  },
+  {
     "id": "p_willem_van_de_sande_bakhuyzen",
     "name": "Willem van de Sande Bakhuyzen",
     "birth_year": 1957,
@@ -6484,6 +6525,12 @@
     "path": "data/people/p_william_gonzalez.json"
   },
   {
+    "id": "p_william_goodrum",
+    "name": "William Goodrum",
+    "birth_year": 1999,
+    "path": "data/people/p_william_goodrum.json"
+  },
+  {
     "id": "p_william_gove",
     "name": "William Gove",
     "path": "data/people/p_william_gove.json"
@@ -6837,6 +6884,12 @@
     "name": "William M. Bass",
     "birth_year": 1928,
     "path": "data/people/p_william_m_bass.json"
+  },
+  {
+    "id": "p_william_m_finkelstein",
+    "name": "William M. Finkelstein",
+    "birth_year": 1951,
+    "path": "data/people/p_william_m_finkelstein.json"
   },
   {
     "id": "p_william_mackinnon",
@@ -9163,6 +9216,12 @@
     "path": "data/people/p_wolfgang_kaven.json"
   },
   {
+    "id": "p_wolfgang_kirchner",
+    "name": "Wolfgang Kirchner",
+    "birth_year": 1934,
+    "path": "data/people/p_wolfgang_kirchner.json"
+  },
+  {
     "id": "p_wolfgang_knopfler",
     "name": "Wolfgang Knöpfler",
     "path": "data/people/p_wolfgang_knopfler.json"
@@ -9842,6 +9901,12 @@
     "name": "Woranuch Bhirombhakdi",
     "birth_year": 1980,
     "path": "data/people/p_woranuch_bhirombhakdi.json"
+  },
+  {
+    "id": "p_worlds_end_girlfriend",
+    "name": "World's End Girlfriend",
+    "birth_year": 1975,
+    "path": "data/people/p_worlds_end_girlfriend.json"
   },
   {
     "id": "p_worrawech_danuwong",
