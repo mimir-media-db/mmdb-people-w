@@ -1108,6 +1108,11 @@
     "path": "data/people/p_walter_flamme.json"
   },
   {
+    "id": "p_walter_flores",
+    "name": "Walter Flores",
+    "path": "data/people/p_walter_flores.json"
+  },
+  {
     "id": "p_walter_fontana",
     "name": "Walter Fontana",
     "birth_year": 1956,
@@ -1835,6 +1840,12 @@
     "path": "data/people/p_wang_leehom.json"
   },
   {
+    "id": "p_wang_liguang",
+    "name": "Wang Liguang",
+    "birth_year": 1960,
+    "path": "data/people/p_wang_liguang.json"
+  },
+  {
     "id": "p_wang_likun",
     "name": "Wang Likun",
     "birth_year": 1985,
@@ -2470,6 +2481,12 @@
     "name": "Warren G",
     "birth_year": 1970,
     "path": "data/people/p_warren_g.json"
+  },
+  {
+    "id": "p_warren_huart",
+    "name": "Warren Huart",
+    "birth_year": 1968,
+    "path": "data/people/p_warren_huart.json"
   },
   {
     "id": "p_warren_keith",
@@ -3370,6 +3387,12 @@
     "path": "data/people/p_wenche_foss.json"
   },
   {
+    "id": "p_wenchen_qin",
+    "name": "Wenchen Qin",
+    "birth_year": 1966,
+    "path": "data/people/p_wenchen_qin.json"
+  },
+  {
     "id": "p_wenchen_tseng",
     "name": "Wen-Chen Tseng",
     "path": "data/people/p_wenchen_tseng.json"
@@ -3564,6 +3587,12 @@
     "name": "Wendy Makkena",
     "birth_year": 1958,
     "path": "data/people/p_wendy_makkena.json"
+  },
+  {
+    "id": "p_wendy_melvoin",
+    "name": "Wendy Melvoin",
+    "birth_year": 1964,
+    "path": "data/people/p_wendy_melvoin.json"
   },
   {
     "id": "p_wendy_moniz",
@@ -6611,6 +6640,12 @@
     "path": "data/people/p_william_johnson.json"
   },
   {
+    "id": "p_william_johnston",
+    "name": "William Johnston",
+    "birth_year": 1925,
+    "path": "data/people/p_william_johnston.json"
+  },
+  {
     "id": "p_william_karel",
     "name": "William Karel",
     "birth_year": 1939,
@@ -6971,6 +7006,12 @@
     "path": "data/people/p_william_robert_carey.json"
   },
   {
+    "id": "p_william_rose",
+    "name": "William Rose",
+    "birth_year": 1914,
+    "path": "data/people/p_william_rose.json"
+  },
+  {
     "id": "p_william_rosenberg",
     "name": "William Rosenberg",
     "birth_year": 1920,
@@ -7130,6 +7171,12 @@
     "path": "data/people/p_william_sullivan.json"
   },
   {
+    "id": "p_william_susman",
+    "name": "William Susman",
+    "birth_year": 1960,
+    "path": "data/people/p_william_susman.json"
+  },
+  {
     "id": "p_william_taft",
     "name": "William Taft",
     "path": "data/people/p_william_taft.json"
@@ -7258,6 +7305,12 @@
     "name": "William Windom",
     "birth_year": 1923,
     "path": "data/people/p_william_windom.json"
+  },
+  {
+    "id": "p_william_wisher_jr",
+    "name": "William Wisher Jr.",
+    "birth_year": 1955,
+    "path": "data/people/p_william_wisher_jr.json"
   },
   {
     "id": "p_william_woods",
@@ -7506,6 +7559,12 @@
     "name": "Willy Sommerfeld",
     "birth_year": 1904,
     "path": "data/people/p_willy_sommerfeld.json"
+  },
+  {
+    "id": "p_willy_vandersteen",
+    "name": "Willy Vandersteen",
+    "birth_year": 1913,
+    "path": "data/people/p_willy_vandersteen.json"
   },
   {
     "id": "p_wilm_huygen",
