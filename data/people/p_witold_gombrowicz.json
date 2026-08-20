@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_witold_gombrowicz",
+  "name": "Witold Gombrowicz",
+  "external_ids": {
+    "wikidata": "Q275175",
+    "imdb": "nm0326822"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1904,
+  "death_year": 1969
+}
