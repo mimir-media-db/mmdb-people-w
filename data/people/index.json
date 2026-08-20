@@ -112,6 +112,12 @@
     "path": "data/people/p_waclaw_adamczyk.json"
   },
   {
+    "id": "p_waddy_wachtel",
+    "name": "Waddy Wachtel",
+    "birth_year": 1947,
+    "path": "data/people/p_waddy_wachtel.json"
+  },
+  {
     "id": "p_wade_allainmarcus",
     "name": "Wade Allain-Marcus",
     "birth_year": 1987,
@@ -395,6 +401,12 @@
     "name": "Wajahat Abbas Kazmi",
     "birth_year": 1985,
     "path": "data/people/p_wajahat_abbas_kazmi.json"
+  },
+  {
+    "id": "p_wajahat_attray",
+    "name": "Wajahat Attray",
+    "birth_year": 1945,
+    "path": "data/people/p_wajahat_attray.json"
   },
   {
     "id": "p_wajahat_rauf",
@@ -1672,6 +1684,12 @@
     "path": "data/people/p_wang_deshun.json"
   },
   {
+    "id": "p_wang_feng",
+    "name": "Wang Feng",
+    "birth_year": 1971,
+    "path": "data/people/p_wang_feng.json"
+  },
+  {
     "id": "p_wang_fuli",
     "name": "Wang Fuli",
     "birth_year": 1949,
@@ -1957,6 +1975,12 @@
     "path": "data/people/p_wang_xiao.json"
   },
   {
+    "id": "p_wang_xiaofeng",
+    "name": "Wang Xiaofeng",
+    "birth_year": 1962,
+    "path": "data/people/p_wang_xiaofeng.json"
+  },
+  {
     "id": "p_wang_xiaojia",
     "name": "Wang Xiaojia",
     "birth_year": 1993,
@@ -1977,6 +2001,12 @@
     "name": "Wang Xiaoshuai",
     "birth_year": 1966,
     "path": "data/people/p_wang_xiaoshuai.json"
+  },
+  {
+    "id": "p_wang_xingdong",
+    "name": "Wang Xingdong",
+    "birth_year": 1950,
+    "path": "data/people/p_wang_xingdong.json"
   },
   {
     "id": "p_wang_xuebing",
@@ -3825,6 +3855,12 @@
     "path": "data/people/p_werner_peters.json"
   },
   {
+    "id": "p_werner_pirchner",
+    "name": "Werner Pirchner",
+    "birth_year": 1940,
+    "path": "data/people/p_werner_pirchner.json"
+  },
+  {
     "id": "p_werner_possardt",
     "name": "Werner Possardt",
     "birth_year": 1951,
@@ -4134,6 +4170,12 @@
     "name": "Wesley Snipes",
     "birth_year": 1962,
     "path": "data/people/p_wesley_snipes.json"
+  },
+  {
+    "id": "p_wesley_strick",
+    "name": "Wesley Strick",
+    "birth_year": 1954,
+    "path": "data/people/p_wesley_strick.json"
   },
   {
     "id": "p_wesley_taylor",
@@ -4508,6 +4550,12 @@
     "path": "data/people/p_wiesaw_piwowarczyk.json"
   },
   {
+    "id": "p_wiesaw_rucinski",
+    "name": "Wiesław Ruciński",
+    "birth_year": 1954,
+    "path": "data/people/p_wiesaw_rucinski.json"
+  },
+  {
     "id": "p_wiesaw_saniewski",
     "name": "Wiesław Saniewski",
     "birth_year": 1948,
@@ -4554,6 +4602,12 @@
     "name": "Wijeyadasa Rajapakshe",
     "birth_year": 1959,
     "path": "data/people/p_wijeyadasa_rajapakshe.json"
+  },
+  {
+    "id": "p_wijo_koek",
+    "name": "Wijo Koek",
+    "birth_year": 1957,
+    "path": "data/people/p_wijo_koek.json"
   },
   {
     "id": "p_wiktor_ericsson",
@@ -5611,6 +5665,12 @@
     "path": "data/people/p_willem_drieling.json"
   },
   {
+    "id": "p_willem_elsschot",
+    "name": "Willem Elsschot",
+    "birth_year": 1882,
+    "path": "data/people/p_willem_elsschot.json"
+  },
+  {
     "id": "p_willem_gerritsen",
     "name": "Willem Gerritsen",
     "path": "data/people/p_willem_gerritsen.json"
@@ -6612,6 +6672,12 @@
     "path": "data/people/p_william_lustig.json"
   },
   {
+    "id": "p_william_m_bass",
+    "name": "William M. Bass",
+    "birth_year": 1928,
+    "path": "data/people/p_william_m_bass.json"
+  },
+  {
     "id": "p_william_mackinnon",
     "name": "William Mackinnon",
     "birth_year": 1953,
@@ -7588,6 +7654,12 @@
     "path": "data/people/p_wim_kok.json"
   },
   {
+    "id": "p_wim_mertens",
+    "name": "Wim Mertens",
+    "birth_year": 1953,
+    "path": "data/people/p_wim_mertens.json"
+  },
+  {
     "id": "p_wim_opbrouck",
     "name": "Wim Opbrouck",
     "birth_year": 1969,
@@ -8436,6 +8508,12 @@
     "name": "Wojciech Tremiszewski",
     "birth_year": 1978,
     "path": "data/people/p_wojciech_tremiszewski.json"
+  },
+  {
+    "id": "p_wojciech_waglewski",
+    "name": "Wojciech Waglewski",
+    "birth_year": 1953,
+    "path": "data/people/p_wojciech_waglewski.json"
   },
   {
     "id": "p_wojciech_walasik",
