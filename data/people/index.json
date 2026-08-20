@@ -177,6 +177,12 @@
     "path": "data/people/p_wade_robson.json"
   },
   {
+    "id": "p_wade_schuman",
+    "name": "Wade Schuman",
+    "birth_year": 1961,
+    "path": "data/people/p_wade_schuman.json"
+  },
+  {
     "id": "p_wade_wang",
     "name": "Wade Wang",
     "birth_year": 1986,
@@ -715,6 +721,12 @@
     "name": "Walid Al-Atiyat",
     "birth_year": 1996,
     "path": "data/people/p_walid_alatiyat.json"
+  },
+  {
+    "id": "p_walid_alkubaisi",
+    "name": "Walid al-Kubaisi",
+    "birth_year": 1958,
+    "path": "data/people/p_walid_alkubaisi.json"
   },
   {
     "id": "p_walid_barham_ode",
@@ -3602,6 +3614,11 @@
     "path": "data/people/p_wendy_delorme.json"
   },
   {
+    "id": "p_wendy_engelberg",
+    "name": "Wendy Engelberg",
+    "path": "data/people/p_wendy_engelberg.json"
+  },
+  {
     "id": "p_wendy_ferguson",
     "name": "Wendy Ferguson",
     "path": "data/people/p_wendy_ferguson.json"
@@ -4738,6 +4755,12 @@
     "name": "Wijo Koek",
     "birth_year": 1957,
     "path": "data/people/p_wijo_koek.json"
+  },
+  {
+    "id": "p_wikluh_sky",
+    "name": "Wikluh Sky",
+    "birth_year": 1980,
+    "path": "data/people/p_wikluh_sky.json"
   },
   {
     "id": "p_wiktor_ericsson",
@@ -6494,6 +6517,12 @@
     "name": "William Gazecki",
     "birth_year": 1956,
     "path": "data/people/p_william_gazecki.json"
+  },
+  {
+    "id": "p_william_geslin",
+    "name": "William Geslin",
+    "birth_year": 1974,
+    "path": "data/people/p_william_geslin.json"
   },
   {
     "id": "p_william_gibson",
@@ -9274,6 +9303,12 @@
     "path": "data/people/p_wolfgang_liebeneiner.json"
   },
   {
+    "id": "p_wolfgang_limmer",
+    "name": "Wolfgang Limmer",
+    "birth_year": 1946,
+    "path": "data/people/p_wolfgang_limmer.json"
+  },
+  {
     "id": "p_wolfgang_lippert",
     "name": "Wolfgang Lippert",
     "birth_year": 1952,
@@ -9749,6 +9784,12 @@
     "name": "Wong Yat-fei",
     "birth_year": 1946,
     "path": "data/people/p_wong_yatfei.json"
+  },
+  {
+    "id": "p_wong_yeung_tat",
+    "name": "Wong Yeung Tat",
+    "birth_year": 1979,
+    "path": "data/people/p_wong_yeung_tat.json"
   },
   {
     "id": "p_wong_younam",
